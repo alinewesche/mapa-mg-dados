@@ -1,0 +1,4267 @@
+{
+  "3100104": {
+    "nome": "Abadia dos Dourados",
+    "alunos": 341,
+    "cursos": 3
+  },
+  "3100203": {
+    "nome": "Abaeté",
+    "alunos": 481,
+    "cursos": 25
+  },
+  "3100302": {
+    "nome": "Abre Campo",
+    "alunos": 355,
+    "cursos": 14
+  },
+  "3100401": {
+    "nome": "Acaiaca",
+    "alunos": 485,
+    "cursos": 18
+  },
+  "3100807": {
+    "nome": "Aguanil",
+    "alunos": 515,
+    "cursos": 16
+  },
+  "3101102": {
+    "nome": "Aimorés",
+    "alunos": 556,
+    "cursos": 22
+  },
+  "3101201": {
+    "nome": "Aiuruoca",
+    "alunos": 327,
+    "cursos": 26
+  },
+  "3101300": {
+    "nome": "Alagoa",
+    "alunos": 559,
+    "cursos": 16
+  },
+  "3101409": {
+    "nome": "Albertina",
+    "alunos": 275,
+    "cursos": 20
+  },
+  "3101607": {
+    "nome": "Alfenas",
+    "alunos": 634,
+    "cursos": 12
+  },
+  "3101631": {
+    "nome": "Alfredo Vasconcelos",
+    "alunos": 223,
+    "cursos": 10
+  },
+  "3101706": {
+    "nome": "Almenara",
+    "alunos": 629,
+    "cursos": 25
+  },
+  "3101805": {
+    "nome": "Alpercata",
+    "alunos": 668,
+    "cursos": 4
+  },
+  "3101904": {
+    "nome": "Alpinópolis",
+    "alunos": 713,
+    "cursos": 21
+  },
+  "3102001": {
+    "nome": "Alterosa",
+    "alunos": 481,
+    "cursos": 24
+  },
+  "3102050": {
+    "nome": "Alto Caparaó",
+    "alunos": 605,
+    "cursos": 14
+  },
+  "3153509": {
+    "nome": "Alto Jequitibá",
+    "alunos": 255,
+    "cursos": 13
+  },
+  "3102100": {
+    "nome": "Alto Rio Doce",
+    "alunos": 71,
+    "cursos": 4
+  },
+  "3102209": {
+    "nome": "Alvarenga",
+    "alunos": 196,
+    "cursos": 34
+  },
+  "3102308": {
+    "nome": "Alvinópolis",
+    "alunos": 664,
+    "cursos": 17
+  },
+  "3102407": {
+    "nome": "Alvorada de Minas",
+    "alunos": 784,
+    "cursos": 35
+  },
+  "3101508": {
+    "nome": "Além Paraíba",
+    "alunos": 592,
+    "cursos": 12
+  },
+  "3102506": {
+    "nome": "Amparo do Serra",
+    "alunos": 105,
+    "cursos": 1
+  },
+  "3102605": {
+    "nome": "Andradas",
+    "alunos": 248,
+    "cursos": 23
+  },
+  "3102803": {
+    "nome": "Andrelândia",
+    "alunos": 721,
+    "cursos": 7
+  },
+  "3102852": {
+    "nome": "Angelândia",
+    "alunos": 103,
+    "cursos": 32
+  },
+  "3102902": {
+    "nome": "Antônio Carlos",
+    "alunos": 793,
+    "cursos": 6
+  },
+  "3103009": {
+    "nome": "Antônio Dias",
+    "alunos": 251,
+    "cursos": 32
+  },
+  "3103108": {
+    "nome": "Antônio Prado de Minas",
+    "alunos": 102,
+    "cursos": 18
+  },
+  "3103306": {
+    "nome": "Aracitaba",
+    "alunos": 51,
+    "cursos": 36
+  },
+  "3103504": {
+    "nome": "Araguari",
+    "alunos": 598,
+    "cursos": 7
+  },
+  "3103603": {
+    "nome": "Arantina",
+    "alunos": 509,
+    "cursos": 16
+  },
+  "3103702": {
+    "nome": "Araponga",
+    "alunos": 774,
+    "cursos": 27
+  },
+  "3103751": {
+    "nome": "Araporã",
+    "alunos": 523,
+    "cursos": 18
+  },
+  "3103801": {
+    "nome": "Arapuá",
+    "alunos": 565,
+    "cursos": 30
+  },
+  "3104007": {
+    "nome": "Araxá",
+    "alunos": 64,
+    "cursos": 28
+  },
+  "3103207": {
+    "nome": "Araçaí",
+    "alunos": 520,
+    "cursos": 10
+  },
+  "3103405": {
+    "nome": "Araçuaí",
+    "alunos": 280,
+    "cursos": 27
+  },
+  "3103900": {
+    "nome": "Araújos",
+    "alunos": 535,
+    "cursos": 6
+  },
+  "3104106": {
+    "nome": "Arceburgo",
+    "alunos": 738,
+    "cursos": 3
+  },
+  "3104205": {
+    "nome": "Arcos",
+    "alunos": 84,
+    "cursos": 33
+  },
+  "3104304": {
+    "nome": "Areado",
+    "alunos": 304,
+    "cursos": 35
+  },
+  "3104403": {
+    "nome": "Argirita",
+    "alunos": 648,
+    "cursos": 3
+  },
+  "3104452": {
+    "nome": "Aricanduva",
+    "alunos": 549,
+    "cursos": 35
+  },
+  "3104502": {
+    "nome": "Arinos",
+    "alunos": 458,
+    "cursos": 15
+  },
+  "3104601": {
+    "nome": "Astolfo Dutra",
+    "alunos": 731,
+    "cursos": 6
+  },
+  "3104700": {
+    "nome": "Ataléia",
+    "alunos": 327,
+    "cursos": 21
+  },
+  "3104809": {
+    "nome": "Augusto de Lima",
+    "alunos": 724,
+    "cursos": 4
+  },
+  "3100500": {
+    "nome": "Açucena",
+    "alunos": 516,
+    "cursos": 16
+  },
+  "3104908": {
+    "nome": "Baependi",
+    "alunos": 464,
+    "cursos": 8
+  },
+  "3105004": {
+    "nome": "Baldim",
+    "alunos": 95,
+    "cursos": 35
+  },
+  "3105103": {
+    "nome": "Bambuí",
+    "alunos": 530,
+    "cursos": 10
+  },
+  "3105202": {
+    "nome": "Bandeira",
+    "alunos": 179,
+    "cursos": 11
+  },
+  "3105301": {
+    "nome": "Bandeira do Sul",
+    "alunos": 554,
+    "cursos": 10
+  },
+  "3105608": {
+    "nome": "Barbacena",
+    "alunos": 791,
+    "cursos": 14
+  },
+  "3105707": {
+    "nome": "Barra Longa",
+    "alunos": 607,
+    "cursos": 17
+  },
+  "3105905": {
+    "nome": "Barroso",
+    "alunos": 72,
+    "cursos": 13
+  },
+  "3105400": {
+    "nome": "Barão de Cocais",
+    "alunos": 790,
+    "cursos": 35
+  },
+  "3105509": {
+    "nome": "Barão de Monte Alto",
+    "alunos": 317,
+    "cursos": 23
+  },
+  "3106002": {
+    "nome": "Bela Vista de Minas",
+    "alunos": 599,
+    "cursos": 8
+  },
+  "3106101": {
+    "nome": "Belmiro Braga",
+    "alunos": 697,
+    "cursos": 19
+  },
+  "3106200": {
+    "nome": "Belo Horizonte",
+    "alunos": 391,
+    "cursos": 36
+  },
+  "3106309": {
+    "nome": "Belo Oriente",
+    "alunos": 456,
+    "cursos": 17
+  },
+  "3106408": {
+    "nome": "Belo Vale",
+    "alunos": 600,
+    "cursos": 14
+  },
+  "3106507": {
+    "nome": "Berilo",
+    "alunos": 573,
+    "cursos": 14
+  },
+  "3106655": {
+    "nome": "Berizal",
+    "alunos": 789,
+    "cursos": 35
+  },
+  "3106606": {
+    "nome": "Bertópolis",
+    "alunos": 500,
+    "cursos": 16
+  },
+  "3106705": {
+    "nome": "Betim",
+    "alunos": 229,
+    "cursos": 18
+  },
+  "3106804": {
+    "nome": "Bias Fortes",
+    "alunos": 580,
+    "cursos": 17
+  },
+  "3106903": {
+    "nome": "Bicas",
+    "alunos": 241,
+    "cursos": 34
+  },
+  "3107000": {
+    "nome": "Biquinhas",
+    "alunos": 735,
+    "cursos": 27
+  },
+  "3107109": {
+    "nome": "Boa Esperança",
+    "alunos": 458,
+    "cursos": 4
+  },
+  "3107208": {
+    "nome": "Bocaina de Minas",
+    "alunos": 654,
+    "cursos": 5
+  },
+  "3107307": {
+    "nome": "Bocaiúva",
+    "alunos": 577,
+    "cursos": 28
+  },
+  "3107406": {
+    "nome": "Bom Despacho",
+    "alunos": 105,
+    "cursos": 21
+  },
+  "3107505": {
+    "nome": "Bom Jardim de Minas",
+    "alunos": 524,
+    "cursos": 22
+  },
+  "3107604": {
+    "nome": "Bom Jesus da Penha",
+    "alunos": 467,
+    "cursos": 7
+  },
+  "3107703": {
+    "nome": "Bom Jesus do Amparo",
+    "alunos": 760,
+    "cursos": 24
+  },
+  "3107802": {
+    "nome": "Bom Jesus do Galho",
+    "alunos": 146,
+    "cursos": 32
+  },
+  "3107901": {
+    "nome": "Bom Repouso",
+    "alunos": 730,
+    "cursos": 21
+  },
+  "3108008": {
+    "nome": "Bom Sucesso",
+    "alunos": 507,
+    "cursos": 30
+  },
+  "3108107": {
+    "nome": "Bonfim",
+    "alunos": 59,
+    "cursos": 5
+  },
+  "3108206": {
+    "nome": "Bonfinópolis de Minas",
+    "alunos": 427,
+    "cursos": 11
+  },
+  "3108255": {
+    "nome": "Bonito de Minas",
+    "alunos": 435,
+    "cursos": 1
+  },
+  "3108305": {
+    "nome": "Borda da Mata",
+    "alunos": 231,
+    "cursos": 1
+  },
+  "3108404": {
+    "nome": "Botelhos",
+    "alunos": 341,
+    "cursos": 10
+  },
+  "3108503": {
+    "nome": "Botumirim",
+    "alunos": 253,
+    "cursos": 2
+  },
+  "3108552": {
+    "nome": "Brasilândia de Minas",
+    "alunos": 750,
+    "cursos": 4
+  },
+  "3108602": {
+    "nome": "Brasília de Minas",
+    "alunos": 292,
+    "cursos": 27
+  },
+  "3108909": {
+    "nome": "Brazópolis",
+    "alunos": 450,
+    "cursos": 14
+  },
+  "3108800": {
+    "nome": "Braúnas",
+    "alunos": 158,
+    "cursos": 4
+  },
+  "3109006": {
+    "nome": "Brumadinho",
+    "alunos": 178,
+    "cursos": 35
+  },
+  "3108701": {
+    "nome": "Brás Pires",
+    "alunos": 625,
+    "cursos": 23
+  },
+  "3109105": {
+    "nome": "Bueno Brandão",
+    "alunos": 256,
+    "cursos": 12
+  },
+  "3109204": {
+    "nome": "Buenópolis",
+    "alunos": 359,
+    "cursos": 27
+  },
+  "3109253": {
+    "nome": "Bugre",
+    "alunos": 284,
+    "cursos": 26
+  },
+  "3109303": {
+    "nome": "Buritis",
+    "alunos": 636,
+    "cursos": 14
+  },
+  "3109402": {
+    "nome": "Buritizeiro",
+    "alunos": 107,
+    "cursos": 22
+  },
+  "3109451": {
+    "nome": "Cabeceira Grande",
+    "alunos": 208,
+    "cursos": 9
+  },
+  "3109501": {
+    "nome": "Cabo Verde",
+    "alunos": 149,
+    "cursos": 5
+  },
+  "3109808": {
+    "nome": "Cachoeira Dourada",
+    "alunos": 100,
+    "cursos": 22
+  },
+  "3109600": {
+    "nome": "Cachoeira da Prata",
+    "alunos": 102,
+    "cursos": 21
+  },
+  "3109709": {
+    "nome": "Cachoeira de Minas",
+    "alunos": 297,
+    "cursos": 27
+  },
+  "3102704": {
+    "nome": "Cachoeira de Pajeú",
+    "alunos": 182,
+    "cursos": 28
+  },
+  "3109907": {
+    "nome": "Caetanópolis",
+    "alunos": 762,
+    "cursos": 5
+  },
+  "3110004": {
+    "nome": "Caeté",
+    "alunos": 237,
+    "cursos": 24
+  },
+  "3110103": {
+    "nome": "Caiana",
+    "alunos": 555,
+    "cursos": 34
+  },
+  "3110202": {
+    "nome": "Cajuri",
+    "alunos": 210,
+    "cursos": 15
+  },
+  "3110301": {
+    "nome": "Caldas",
+    "alunos": 234,
+    "cursos": 26
+  },
+  "3110400": {
+    "nome": "Camacho",
+    "alunos": 279,
+    "cursos": 1
+  },
+  "3110509": {
+    "nome": "Camanducaia",
+    "alunos": 604,
+    "cursos": 21
+  },
+  "3110707": {
+    "nome": "Cambuquira",
+    "alunos": 182,
+    "cursos": 10
+  },
+  "3110608": {
+    "nome": "Cambuí",
+    "alunos": 442,
+    "cursos": 5
+  },
+  "3110905": {
+    "nome": "Campanha",
+    "alunos": 713,
+    "cursos": 2
+  },
+  "3110806": {
+    "nome": "Campanário",
+    "alunos": 563,
+    "cursos": 4
+  },
+  "3111002": {
+    "nome": "Campestre",
+    "alunos": 774,
+    "cursos": 21
+  },
+  "3111101": {
+    "nome": "Campina Verde",
+    "alunos": 243,
+    "cursos": 13
+  },
+  "3111150": {
+    "nome": "Campo Azul",
+    "alunos": 184,
+    "cursos": 3
+  },
+  "3111200": {
+    "nome": "Campo Belo",
+    "alunos": 204,
+    "cursos": 33
+  },
+  "3111408": {
+    "nome": "Campo Florido",
+    "alunos": 107,
+    "cursos": 17
+  },
+  "3111309": {
+    "nome": "Campo do Meio",
+    "alunos": 342,
+    "cursos": 5
+  },
+  "3111507": {
+    "nome": "Campos Altos",
+    "alunos": 242,
+    "cursos": 34
+  },
+  "3111606": {
+    "nome": "Campos Gerais",
+    "alunos": 116,
+    "cursos": 33
+  },
+  "3111903": {
+    "nome": "Cana Verde",
+    "alunos": 600,
+    "cursos": 24
+  },
+  "3111705": {
+    "nome": "Canaã",
+    "alunos": 184,
+    "cursos": 3
+  },
+  "3112000": {
+    "nome": "Candeias",
+    "alunos": 749,
+    "cursos": 35
+  },
+  "3112059": {
+    "nome": "Cantagalo",
+    "alunos": 542,
+    "cursos": 23
+  },
+  "3111804": {
+    "nome": "Canápolis",
+    "alunos": 504,
+    "cursos": 21
+  },
+  "3112109": {
+    "nome": "Caparaó",
+    "alunos": 159,
+    "cursos": 13
+  },
+  "3112208": {
+    "nome": "Capela Nova",
+    "alunos": 354,
+    "cursos": 16
+  },
+  "3112307": {
+    "nome": "Capelinha",
+    "alunos": 57,
+    "cursos": 25
+  },
+  "3112406": {
+    "nome": "Capetinga",
+    "alunos": 384,
+    "cursos": 9
+  },
+  "3112505": {
+    "nome": "Capim Branco",
+    "alunos": 704,
+    "cursos": 30
+  },
+  "3112604": {
+    "nome": "Capinópolis",
+    "alunos": 679,
+    "cursos": 10
+  },
+  "3112653": {
+    "nome": "Capitão Andrade",
+    "alunos": 267,
+    "cursos": 31
+  },
+  "3112703": {
+    "nome": "Capitão Enéas",
+    "alunos": 365,
+    "cursos": 15
+  },
+  "3112802": {
+    "nome": "Capitólio",
+    "alunos": 438,
+    "cursos": 23
+  },
+  "3112901": {
+    "nome": "Caputira",
+    "alunos": 625,
+    "cursos": 21
+  },
+  "3113107": {
+    "nome": "Caranaíba",
+    "alunos": 329,
+    "cursos": 34
+  },
+  "3113206": {
+    "nome": "Carandaí",
+    "alunos": 795,
+    "cursos": 22
+  },
+  "3113305": {
+    "nome": "Carangola",
+    "alunos": 623,
+    "cursos": 28
+  },
+  "3113404": {
+    "nome": "Caratinga",
+    "alunos": 250,
+    "cursos": 10
+  },
+  "3113008": {
+    "nome": "Caraí",
+    "alunos": 171,
+    "cursos": 17
+  },
+  "3113503": {
+    "nome": "Carbonita",
+    "alunos": 582,
+    "cursos": 17
+  },
+  "3113602": {
+    "nome": "Careaçu",
+    "alunos": 793,
+    "cursos": 15
+  },
+  "3113701": {
+    "nome": "Carlos Chagas",
+    "alunos": 209,
+    "cursos": 25
+  },
+  "3113909": {
+    "nome": "Carmo da Cachoeira",
+    "alunos": 515,
+    "cursos": 2
+  },
+  "3114006": {
+    "nome": "Carmo da Mata",
+    "alunos": 579,
+    "cursos": 12
+  },
+  "3114105": {
+    "nome": "Carmo de Minas",
+    "alunos": 604,
+    "cursos": 8
+  },
+  "3114204": {
+    "nome": "Carmo do Cajuru",
+    "alunos": 141,
+    "cursos": 1
+  },
+  "3114303": {
+    "nome": "Carmo do Paranaíba",
+    "alunos": 438,
+    "cursos": 4
+  },
+  "3114402": {
+    "nome": "Carmo do Rio Claro",
+    "alunos": 688,
+    "cursos": 26
+  },
+  "3113800": {
+    "nome": "Carmésia",
+    "alunos": 74,
+    "cursos": 14
+  },
+  "3114501": {
+    "nome": "Carmópolis de Minas",
+    "alunos": 725,
+    "cursos": 29
+  },
+  "3114550": {
+    "nome": "Carneirinho",
+    "alunos": 508,
+    "cursos": 17
+  },
+  "3114600": {
+    "nome": "Carrancas",
+    "alunos": 713,
+    "cursos": 16
+  },
+  "3114808": {
+    "nome": "Carvalhos",
+    "alunos": 376,
+    "cursos": 36
+  },
+  "3114709": {
+    "nome": "Carvalhópolis",
+    "alunos": 105,
+    "cursos": 19
+  },
+  "3114907": {
+    "nome": "Casa Grande",
+    "alunos": 60,
+    "cursos": 31
+  },
+  "3115003": {
+    "nome": "Cascalho Rico",
+    "alunos": 66,
+    "cursos": 15
+  },
+  "3115300": {
+    "nome": "Cataguases",
+    "alunos": 342,
+    "cursos": 23
+  },
+  "3115359": {
+    "nome": "Catas Altas",
+    "alunos": 550,
+    "cursos": 17
+  },
+  "3115409": {
+    "nome": "Catas Altas da Noruega",
+    "alunos": 460,
+    "cursos": 14
+  },
+  "3115458": {
+    "nome": "Catuji",
+    "alunos": 456,
+    "cursos": 12
+  },
+  "3115474": {
+    "nome": "Catuti",
+    "alunos": 480,
+    "cursos": 16
+  },
+  "3115508": {
+    "nome": "Caxambu",
+    "alunos": 260,
+    "cursos": 6
+  },
+  "3115607": {
+    "nome": "Cedro do Abaeté",
+    "alunos": 104,
+    "cursos": 11
+  },
+  "3115706": {
+    "nome": "Central de Minas",
+    "alunos": 448,
+    "cursos": 2
+  },
+  "3115805": {
+    "nome": "Centralina",
+    "alunos": 758,
+    "cursos": 1
+  },
+  "3116001": {
+    "nome": "Chalé",
+    "alunos": 191,
+    "cursos": 5
+  },
+  "3116159": {
+    "nome": "Chapada Gaúcha",
+    "alunos": 374,
+    "cursos": 27
+  },
+  "3116100": {
+    "nome": "Chapada do Norte",
+    "alunos": 301,
+    "cursos": 10
+  },
+  "3116209": {
+    "nome": "Chiador",
+    "alunos": 785,
+    "cursos": 15
+  },
+  "3115904": {
+    "nome": "Chácara",
+    "alunos": 78,
+    "cursos": 12
+  },
+  "3116308": {
+    "nome": "Cipotânea",
+    "alunos": 615,
+    "cursos": 19
+  },
+  "3116407": {
+    "nome": "Claraval",
+    "alunos": 520,
+    "cursos": 26
+  },
+  "3116506": {
+    "nome": "Claro dos Poções",
+    "alunos": 563,
+    "cursos": 19
+  },
+  "3116605": {
+    "nome": "Cláudio",
+    "alunos": 511,
+    "cursos": 3
+  },
+  "3116704": {
+    "nome": "Coimbra",
+    "alunos": 792,
+    "cursos": 4
+  },
+  "3116803": {
+    "nome": "Coluna",
+    "alunos": 223,
+    "cursos": 22
+  },
+  "3116902": {
+    "nome": "Comendador Gomes",
+    "alunos": 558,
+    "cursos": 31
+  },
+  "3117009": {
+    "nome": "Comercinho",
+    "alunos": 208,
+    "cursos": 19
+  },
+  "3117108": {
+    "nome": "Conceição da Aparecida",
+    "alunos": 432,
+    "cursos": 30
+  },
+  "3115201": {
+    "nome": "Conceição da Barra de Minas",
+    "alunos": 355,
+    "cursos": 21
+  },
+  "3117306": {
+    "nome": "Conceição das Alagoas",
+    "alunos": 154,
+    "cursos": 30
+  },
+  "3117207": {
+    "nome": "Conceição das Pedras",
+    "alunos": 502,
+    "cursos": 9
+  },
+  "3117405": {
+    "nome": "Conceição de Ipanema",
+    "alunos": 208,
+    "cursos": 26
+  },
+  "3117504": {
+    "nome": "Conceição do Mato Dentro",
+    "alunos": 378,
+    "cursos": 8
+  },
+  "3117603": {
+    "nome": "Conceição do Pará",
+    "alunos": 353,
+    "cursos": 23
+  },
+  "3117702": {
+    "nome": "Conceição do Rio Verde",
+    "alunos": 284,
+    "cursos": 6
+  },
+  "3117801": {
+    "nome": "Conceição dos Ouros",
+    "alunos": 378,
+    "cursos": 1
+  },
+  "3117876": {
+    "nome": "Confins",
+    "alunos": 728,
+    "cursos": 21
+  },
+  "3117900": {
+    "nome": "Congonhal",
+    "alunos": 448,
+    "cursos": 2
+  },
+  "3118007": {
+    "nome": "Congonhas",
+    "alunos": 107,
+    "cursos": 17
+  },
+  "3118106": {
+    "nome": "Congonhas do Norte",
+    "alunos": 412,
+    "cursos": 2
+  },
+  "3118205": {
+    "nome": "Conquista",
+    "alunos": 82,
+    "cursos": 15
+  },
+  "3118304": {
+    "nome": "Conselheiro Lafaiete",
+    "alunos": 254,
+    "cursos": 36
+  },
+  "3118403": {
+    "nome": "Conselheiro Pena",
+    "alunos": 319,
+    "cursos": 23
+  },
+  "3118502": {
+    "nome": "Consolação",
+    "alunos": 164,
+    "cursos": 32
+  },
+  "3118601": {
+    "nome": "Contagem",
+    "alunos": 171,
+    "cursos": 32
+  },
+  "3118700": {
+    "nome": "Coqueiral",
+    "alunos": 172,
+    "cursos": 22
+  },
+  "3118809": {
+    "nome": "Coração de Jesus",
+    "alunos": 795,
+    "cursos": 34
+  },
+  "3118908": {
+    "nome": "Cordisburgo",
+    "alunos": 311,
+    "cursos": 16
+  },
+  "3119005": {
+    "nome": "Cordislândia",
+    "alunos": 335,
+    "cursos": 26
+  },
+  "3119104": {
+    "nome": "Corinto",
+    "alunos": 746,
+    "cursos": 17
+  },
+  "3119203": {
+    "nome": "Coroaci",
+    "alunos": 202,
+    "cursos": 33
+  },
+  "3119302": {
+    "nome": "Coromandel",
+    "alunos": 557,
+    "cursos": 35
+  },
+  "3119401": {
+    "nome": "Coronel Fabriciano",
+    "alunos": 652,
+    "cursos": 11
+  },
+  "3119500": {
+    "nome": "Coronel Murta",
+    "alunos": 742,
+    "cursos": 28
+  },
+  "3119609": {
+    "nome": "Coronel Pacheco",
+    "alunos": 478,
+    "cursos": 31
+  },
+  "3119708": {
+    "nome": "Coronel Xavier Chaves",
+    "alunos": 353,
+    "cursos": 6
+  },
+  "3120102": {
+    "nome": "Couto de Magalhães de Minas",
+    "alunos": 254,
+    "cursos": 7
+  },
+  "3120201": {
+    "nome": "Cristais",
+    "alunos": 744,
+    "cursos": 5
+  },
+  "3120409": {
+    "nome": "Cristiano Otoni",
+    "alunos": 541,
+    "cursos": 24
+  },
+  "3120508": {
+    "nome": "Cristina",
+    "alunos": 127,
+    "cursos": 13
+  },
+  "3120300": {
+    "nome": "Cristália",
+    "alunos": 568,
+    "cursos": 12
+  },
+  "3120151": {
+    "nome": "Crisólita",
+    "alunos": 367,
+    "cursos": 16
+  },
+  "3120607": {
+    "nome": "Crucilândia",
+    "alunos": 292,
+    "cursos": 27
+  },
+  "3120706": {
+    "nome": "Cruzeiro da Fortaleza",
+    "alunos": 628,
+    "cursos": 33
+  },
+  "3120805": {
+    "nome": "Cruzília",
+    "alunos": 147,
+    "cursos": 31
+  },
+  "3120839": {
+    "nome": "Cuparaque",
+    "alunos": 435,
+    "cursos": 27
+  },
+  "3120870": {
+    "nome": "Curral de Dentro",
+    "alunos": 534,
+    "cursos": 4
+  },
+  "3120904": {
+    "nome": "Curvelo",
+    "alunos": 767,
+    "cursos": 31
+  },
+  "3115102": {
+    "nome": "Cássia",
+    "alunos": 440,
+    "cursos": 28
+  },
+  "3119807": {
+    "nome": "Córrego Danta",
+    "alunos": 760,
+    "cursos": 29
+  },
+  "3119955": {
+    "nome": "Córrego Fundo",
+    "alunos": 697,
+    "cursos": 18
+  },
+  "3120003": {
+    "nome": "Córrego Novo",
+    "alunos": 781,
+    "cursos": 9
+  },
+  "3119906": {
+    "nome": "Córrego do Bom Jesus",
+    "alunos": 144,
+    "cursos": 2
+  },
+  "3117836": {
+    "nome": "Cônego Marinho",
+    "alunos": 519,
+    "cursos": 15
+  },
+  "3121001": {
+    "nome": "Datas",
+    "alunos": 640,
+    "cursos": 4
+  },
+  "3121100": {
+    "nome": "Delfim Moreira",
+    "alunos": 270,
+    "cursos": 33
+  },
+  "3121209": {
+    "nome": "Delfinópolis",
+    "alunos": 377,
+    "cursos": 11
+  },
+  "3121258": {
+    "nome": "Delta",
+    "alunos": 142,
+    "cursos": 19
+  },
+  "3121308": {
+    "nome": "Descoberto",
+    "alunos": 437,
+    "cursos": 22
+  },
+  "3121407": {
+    "nome": "Desterro de Entre Rios",
+    "alunos": 417,
+    "cursos": 1
+  },
+  "3121506": {
+    "nome": "Desterro do Melo",
+    "alunos": 232,
+    "cursos": 33
+  },
+  "3121605": {
+    "nome": "Diamantina",
+    "alunos": 530,
+    "cursos": 8
+  },
+  "3121704": {
+    "nome": "Diogo de Vasconcelos",
+    "alunos": 366,
+    "cursos": 24
+  },
+  "3121803": {
+    "nome": "Dionísio",
+    "alunos": 645,
+    "cursos": 13
+  },
+  "3122009": {
+    "nome": "Divino",
+    "alunos": 98,
+    "cursos": 30
+  },
+  "3122108": {
+    "nome": "Divino das Laranjeiras",
+    "alunos": 447,
+    "cursos": 6
+  },
+  "3122207": {
+    "nome": "Divinolândia de Minas",
+    "alunos": 437,
+    "cursos": 3
+  },
+  "3121902": {
+    "nome": "Divinésia",
+    "alunos": 405,
+    "cursos": 5
+  },
+  "3122306": {
+    "nome": "Divinópolis",
+    "alunos": 477,
+    "cursos": 28
+  },
+  "3122355": {
+    "nome": "Divisa Alegre",
+    "alunos": 728,
+    "cursos": 2
+  },
+  "3122405": {
+    "nome": "Divisa Nova",
+    "alunos": 127,
+    "cursos": 31
+  },
+  "3122454": {
+    "nome": "Divisópolis",
+    "alunos": 551,
+    "cursos": 5
+  },
+  "3122470": {
+    "nome": "Dom Bosco",
+    "alunos": 107,
+    "cursos": 4
+  },
+  "3122504": {
+    "nome": "Dom Cavati",
+    "alunos": 165,
+    "cursos": 32
+  },
+  "3122603": {
+    "nome": "Dom Joaquim",
+    "alunos": 82,
+    "cursos": 8
+  },
+  "3122702": {
+    "nome": "Dom Silvério",
+    "alunos": 62,
+    "cursos": 9
+  },
+  "3122801": {
+    "nome": "Dom Viçoso",
+    "alunos": 425,
+    "cursos": 8
+  },
+  "3122900": {
+    "nome": "Dona Euzébia",
+    "alunos": 755,
+    "cursos": 14
+  },
+  "3123007": {
+    "nome": "Dores de Campos",
+    "alunos": 155,
+    "cursos": 10
+  },
+  "3123106": {
+    "nome": "Dores de Guanhães",
+    "alunos": 494,
+    "cursos": 15
+  },
+  "3123205": {
+    "nome": "Dores do Indaiá",
+    "alunos": 497,
+    "cursos": 32
+  },
+  "3123304": {
+    "nome": "Dores do Turvo",
+    "alunos": 751,
+    "cursos": 22
+  },
+  "3123403": {
+    "nome": "Doresópolis",
+    "alunos": 398,
+    "cursos": 22
+  },
+  "3123502": {
+    "nome": "Douradoquara",
+    "alunos": 652,
+    "cursos": 3
+  },
+  "3123528": {
+    "nome": "Durandé",
+    "alunos": 565,
+    "cursos": 34
+  },
+  "3123601": {
+    "nome": "Elói Mendes",
+    "alunos": 470,
+    "cursos": 8
+  },
+  "3123700": {
+    "nome": "Engenheiro Caldas",
+    "alunos": 475,
+    "cursos": 10
+  },
+  "3123809": {
+    "nome": "Engenheiro Navarro",
+    "alunos": 287,
+    "cursos": 2
+  },
+  "3123858": {
+    "nome": "Entre Folhas",
+    "alunos": 411,
+    "cursos": 15
+  },
+  "3123908": {
+    "nome": "Entre Rios de Minas",
+    "alunos": 792,
+    "cursos": 27
+  },
+  "3124005": {
+    "nome": "Ervália",
+    "alunos": 171,
+    "cursos": 3
+  },
+  "3124104": {
+    "nome": "Esmeraldas",
+    "alunos": 708,
+    "cursos": 33
+  },
+  "3124203": {
+    "nome": "Espera Feliz",
+    "alunos": 510,
+    "cursos": 27
+  },
+  "3124302": {
+    "nome": "Espinosa",
+    "alunos": 163,
+    "cursos": 22
+  },
+  "3124401": {
+    "nome": "Espírito Santo do Dourado",
+    "alunos": 482,
+    "cursos": 25
+  },
+  "3124500": {
+    "nome": "Estiva",
+    "alunos": 494,
+    "cursos": 35
+  },
+  "3124609": {
+    "nome": "Estrela Dalva",
+    "alunos": 312,
+    "cursos": 26
+  },
+  "3124708": {
+    "nome": "Estrela do Indaiá",
+    "alunos": 256,
+    "cursos": 26
+  },
+  "3124807": {
+    "nome": "Estrela do Sul",
+    "alunos": 739,
+    "cursos": 1
+  },
+  "3124906": {
+    "nome": "Eugenópolis",
+    "alunos": 663,
+    "cursos": 13
+  },
+  "3125002": {
+    "nome": "Ewbank da Câmara",
+    "alunos": 413,
+    "cursos": 6
+  },
+  "3125101": {
+    "nome": "Extrema",
+    "alunos": 134,
+    "cursos": 14
+  },
+  "3125200": {
+    "nome": "Fama",
+    "alunos": 220,
+    "cursos": 4
+  },
+  "3125309": {
+    "nome": "Faria Lemos",
+    "alunos": 545,
+    "cursos": 10
+  },
+  "3125606": {
+    "nome": "Felisburgo",
+    "alunos": 627,
+    "cursos": 10
+  },
+  "3125705": {
+    "nome": "Felixlândia",
+    "alunos": 217,
+    "cursos": 3
+  },
+  "3125408": {
+    "nome": "Felício dos Santos",
+    "alunos": 480,
+    "cursos": 2
+  },
+  "3125804": {
+    "nome": "Fernandes Tourinho",
+    "alunos": 413,
+    "cursos": 15
+  },
+  "3125903": {
+    "nome": "Ferros",
+    "alunos": 603,
+    "cursos": 24
+  },
+  "3125952": {
+    "nome": "Fervedouro",
+    "alunos": 410,
+    "cursos": 3
+  },
+  "3126000": {
+    "nome": "Florestal",
+    "alunos": 636,
+    "cursos": 2
+  },
+  "3126109": {
+    "nome": "Formiga",
+    "alunos": 638,
+    "cursos": 1
+  },
+  "3126208": {
+    "nome": "Formoso",
+    "alunos": 308,
+    "cursos": 7
+  },
+  "3126307": {
+    "nome": "Fortaleza de Minas",
+    "alunos": 420,
+    "cursos": 10
+  },
+  "3126406": {
+    "nome": "Fortuna de Minas",
+    "alunos": 494,
+    "cursos": 25
+  },
+  "3126505": {
+    "nome": "Francisco Badaró",
+    "alunos": 102,
+    "cursos": 5
+  },
+  "3126604": {
+    "nome": "Francisco Dumont",
+    "alunos": 454,
+    "cursos": 27
+  },
+  "3126703": {
+    "nome": "Francisco Sá",
+    "alunos": 236,
+    "cursos": 1
+  },
+  "3126752": {
+    "nome": "Franciscópolis",
+    "alunos": 163,
+    "cursos": 27
+  },
+  "3126802": {
+    "nome": "Frei Gaspar",
+    "alunos": 585,
+    "cursos": 30
+  },
+  "3126901": {
+    "nome": "Frei Inocêncio",
+    "alunos": 61,
+    "cursos": 7
+  },
+  "3126950": {
+    "nome": "Frei Lagonegro",
+    "alunos": 602,
+    "cursos": 34
+  },
+  "3127008": {
+    "nome": "Fronteira",
+    "alunos": 391,
+    "cursos": 8
+  },
+  "3127057": {
+    "nome": "Fronteira dos Vales",
+    "alunos": 169,
+    "cursos": 18
+  },
+  "3127073": {
+    "nome": "Fruta de Leite",
+    "alunos": 323,
+    "cursos": 11
+  },
+  "3127107": {
+    "nome": "Frutal",
+    "alunos": 265,
+    "cursos": 11
+  },
+  "3127206": {
+    "nome": "Funilândia",
+    "alunos": 667,
+    "cursos": 30
+  },
+  "3127305": {
+    "nome": "Galiléia",
+    "alunos": 129,
+    "cursos": 14
+  },
+  "3127339": {
+    "nome": "Gameleiras",
+    "alunos": 144,
+    "cursos": 35
+  },
+  "3127354": {
+    "nome": "Glaucilândia",
+    "alunos": 714,
+    "cursos": 32
+  },
+  "3127370": {
+    "nome": "Goiabeira",
+    "alunos": 303,
+    "cursos": 1
+  },
+  "3127388": {
+    "nome": "Goianá",
+    "alunos": 767,
+    "cursos": 25
+  },
+  "3127503": {
+    "nome": "Gonzaga",
+    "alunos": 243,
+    "cursos": 22
+  },
+  "3127404": {
+    "nome": "Gonçalves",
+    "alunos": 245,
+    "cursos": 10
+  },
+  "3127602": {
+    "nome": "Gouveia",
+    "alunos": 137,
+    "cursos": 7
+  },
+  "3127701": {
+    "nome": "Governador Valadares",
+    "alunos": 466,
+    "cursos": 23
+  },
+  "3127909": {
+    "nome": "Grupiara",
+    "alunos": 386,
+    "cursos": 15
+  },
+  "3127800": {
+    "nome": "Grão Mogol",
+    "alunos": 652,
+    "cursos": 24
+  },
+  "3128006": {
+    "nome": "Guanhães",
+    "alunos": 400,
+    "cursos": 36
+  },
+  "3128105": {
+    "nome": "Guapé",
+    "alunos": 388,
+    "cursos": 21
+  },
+  "3128204": {
+    "nome": "Guaraciaba",
+    "alunos": 449,
+    "cursos": 29
+  },
+  "3128253": {
+    "nome": "Guaraciama",
+    "alunos": 664,
+    "cursos": 5
+  },
+  "3128402": {
+    "nome": "Guarani",
+    "alunos": 423,
+    "cursos": 14
+  },
+  "3128303": {
+    "nome": "Guaranésia",
+    "alunos": 663,
+    "cursos": 3
+  },
+  "3128501": {
+    "nome": "Guarará",
+    "alunos": 709,
+    "cursos": 6
+  },
+  "3128600": {
+    "nome": "Guarda-Mor",
+    "alunos": 528,
+    "cursos": 31
+  },
+  "3128709": {
+    "nome": "Guaxupé",
+    "alunos": 636,
+    "cursos": 11
+  },
+  "3128808": {
+    "nome": "Guidoval",
+    "alunos": 570,
+    "cursos": 10
+  },
+  "3128907": {
+    "nome": "Guimarânia",
+    "alunos": 152,
+    "cursos": 15
+  },
+  "3129004": {
+    "nome": "Guiricema",
+    "alunos": 789,
+    "cursos": 29
+  },
+  "3129103": {
+    "nome": "Gurinhatã",
+    "alunos": 136,
+    "cursos": 11
+  },
+  "3129202": {
+    "nome": "Heliodora",
+    "alunos": 575,
+    "cursos": 20
+  },
+  "3129301": {
+    "nome": "Iapu",
+    "alunos": 186,
+    "cursos": 30
+  },
+  "3129400": {
+    "nome": "Ibertioga",
+    "alunos": 431,
+    "cursos": 22
+  },
+  "3129608": {
+    "nome": "Ibiaí",
+    "alunos": 656,
+    "cursos": 30
+  },
+  "3129657": {
+    "nome": "Ibiracatu",
+    "alunos": 710,
+    "cursos": 16
+  },
+  "3129707": {
+    "nome": "Ibiraci",
+    "alunos": 776,
+    "cursos": 5
+  },
+  "3129806": {
+    "nome": "Ibirité",
+    "alunos": 191,
+    "cursos": 28
+  },
+  "3129905": {
+    "nome": "Ibitiúra de Minas",
+    "alunos": 284,
+    "cursos": 17
+  },
+  "3130002": {
+    "nome": "Ibituruna",
+    "alunos": 462,
+    "cursos": 33
+  },
+  "3129509": {
+    "nome": "Ibiá",
+    "alunos": 450,
+    "cursos": 13
+  },
+  "3130051": {
+    "nome": "Icaraí de Minas",
+    "alunos": 68,
+    "cursos": 31
+  },
+  "3130101": {
+    "nome": "Igarapé",
+    "alunos": 457,
+    "cursos": 35
+  },
+  "3130200": {
+    "nome": "Igaratinga",
+    "alunos": 385,
+    "cursos": 2
+  },
+  "3130309": {
+    "nome": "Iguatama",
+    "alunos": 195,
+    "cursos": 29
+  },
+  "3130408": {
+    "nome": "Ijaci",
+    "alunos": 674,
+    "cursos": 6
+  },
+  "3130507": {
+    "nome": "Ilicínea",
+    "alunos": 757,
+    "cursos": 26
+  },
+  "3130556": {
+    "nome": "Imbé de Minas",
+    "alunos": 713,
+    "cursos": 35
+  },
+  "3130606": {
+    "nome": "Inconfidentes",
+    "alunos": 248,
+    "cursos": 26
+  },
+  "3130655": {
+    "nome": "Indaiabira",
+    "alunos": 359,
+    "cursos": 26
+  },
+  "3130705": {
+    "nome": "Indianópolis",
+    "alunos": 458,
+    "cursos": 25
+  },
+  "3130804": {
+    "nome": "Ingaí",
+    "alunos": 758,
+    "cursos": 18
+  },
+  "3130903": {
+    "nome": "Inhapim",
+    "alunos": 275,
+    "cursos": 15
+  },
+  "3131000": {
+    "nome": "Inhaúma",
+    "alunos": 192,
+    "cursos": 2
+  },
+  "3131109": {
+    "nome": "Inimutaba",
+    "alunos": 788,
+    "cursos": 11
+  },
+  "3131158": {
+    "nome": "Ipaba",
+    "alunos": 100,
+    "cursos": 32
+  },
+  "3131208": {
+    "nome": "Ipanema",
+    "alunos": 527,
+    "cursos": 14
+  },
+  "3131307": {
+    "nome": "Ipatinga",
+    "alunos": 360,
+    "cursos": 3
+  },
+  "3131406": {
+    "nome": "Ipiaçu",
+    "alunos": 610,
+    "cursos": 25
+  },
+  "3131505": {
+    "nome": "Ipuiúna",
+    "alunos": 799,
+    "cursos": 9
+  },
+  "3131604": {
+    "nome": "Iraí de Minas",
+    "alunos": 657,
+    "cursos": 29
+  },
+  "3131703": {
+    "nome": "Itabira",
+    "alunos": 301,
+    "cursos": 20
+  },
+  "3131802": {
+    "nome": "Itabirinha",
+    "alunos": 150,
+    "cursos": 4
+  },
+  "3131901": {
+    "nome": "Itabirito",
+    "alunos": 758,
+    "cursos": 32
+  },
+  "3132008": {
+    "nome": "Itacambira",
+    "alunos": 530,
+    "cursos": 24
+  },
+  "3132107": {
+    "nome": "Itacarambi",
+    "alunos": 489,
+    "cursos": 36
+  },
+  "3132206": {
+    "nome": "Itaguara",
+    "alunos": 414,
+    "cursos": 28
+  },
+  "3132305": {
+    "nome": "Itaipé",
+    "alunos": 69,
+    "cursos": 22
+  },
+  "3132404": {
+    "nome": "Itajubá",
+    "alunos": 64,
+    "cursos": 33
+  },
+  "3132503": {
+    "nome": "Itamarandiba",
+    "alunos": 555,
+    "cursos": 10
+  },
+  "3132602": {
+    "nome": "Itamarati de Minas",
+    "alunos": 550,
+    "cursos": 35
+  },
+  "3132701": {
+    "nome": "Itambacuri",
+    "alunos": 247,
+    "cursos": 3
+  },
+  "3132800": {
+    "nome": "Itambé do Mato Dentro",
+    "alunos": 458,
+    "cursos": 18
+  },
+  "3132909": {
+    "nome": "Itamogi",
+    "alunos": 266,
+    "cursos": 7
+  },
+  "3133006": {
+    "nome": "Itamonte",
+    "alunos": 774,
+    "cursos": 11
+  },
+  "3133105": {
+    "nome": "Itanhandu",
+    "alunos": 658,
+    "cursos": 30
+  },
+  "3133204": {
+    "nome": "Itanhomi",
+    "alunos": 607,
+    "cursos": 17
+  },
+  "3133303": {
+    "nome": "Itaobim",
+    "alunos": 396,
+    "cursos": 25
+  },
+  "3133402": {
+    "nome": "Itapagipe",
+    "alunos": 468,
+    "cursos": 7
+  },
+  "3133501": {
+    "nome": "Itapecerica",
+    "alunos": 655,
+    "cursos": 31
+  },
+  "3133600": {
+    "nome": "Itapeva",
+    "alunos": 246,
+    "cursos": 14
+  },
+  "3133709": {
+    "nome": "Itatiaiuçu",
+    "alunos": 79,
+    "cursos": 25
+  },
+  "3133907": {
+    "nome": "Itaverava",
+    "alunos": 799,
+    "cursos": 19
+  },
+  "3133758": {
+    "nome": "Itaú de Minas",
+    "alunos": 794,
+    "cursos": 14
+  },
+  "3133808": {
+    "nome": "Itaúna",
+    "alunos": 522,
+    "cursos": 33
+  },
+  "3134004": {
+    "nome": "Itinga",
+    "alunos": 257,
+    "cursos": 1
+  },
+  "3134103": {
+    "nome": "Itueta",
+    "alunos": 749,
+    "cursos": 27
+  },
+  "3134202": {
+    "nome": "Ituiutaba",
+    "alunos": 702,
+    "cursos": 10
+  },
+  "3134301": {
+    "nome": "Itumirim",
+    "alunos": 206,
+    "cursos": 20
+  },
+  "3134400": {
+    "nome": "Iturama",
+    "alunos": 219,
+    "cursos": 7
+  },
+  "3134509": {
+    "nome": "Itutinga",
+    "alunos": 591,
+    "cursos": 23
+  },
+  "3134608": {
+    "nome": "Jaboticatubas",
+    "alunos": 339,
+    "cursos": 7
+  },
+  "3134707": {
+    "nome": "Jacinto",
+    "alunos": 339,
+    "cursos": 12
+  },
+  "3134905": {
+    "nome": "Jacutinga",
+    "alunos": 771,
+    "cursos": 1
+  },
+  "3134806": {
+    "nome": "Jacuí",
+    "alunos": 346,
+    "cursos": 32
+  },
+  "3135001": {
+    "nome": "Jaguaraçu",
+    "alunos": 198,
+    "cursos": 12
+  },
+  "3135076": {
+    "nome": "Jampruca",
+    "alunos": 99,
+    "cursos": 17
+  },
+  "3135100": {
+    "nome": "Janaúba",
+    "alunos": 681,
+    "cursos": 22
+  },
+  "3135209": {
+    "nome": "Januária",
+    "alunos": 643,
+    "cursos": 34
+  },
+  "3135308": {
+    "nome": "Japaraíba",
+    "alunos": 311,
+    "cursos": 33
+  },
+  "3135357": {
+    "nome": "Japonvar",
+    "alunos": 365,
+    "cursos": 29
+  },
+  "3135050": {
+    "nome": "Jaíba",
+    "alunos": 701,
+    "cursos": 15
+  },
+  "3135407": {
+    "nome": "Jeceaba",
+    "alunos": 116,
+    "cursos": 28
+  },
+  "3135456": {
+    "nome": "Jenipapo de Minas",
+    "alunos": 759,
+    "cursos": 10
+  },
+  "3135506": {
+    "nome": "Jequeri",
+    "alunos": 798,
+    "cursos": 7
+  },
+  "3135605": {
+    "nome": "Jequitaí",
+    "alunos": 532,
+    "cursos": 24
+  },
+  "3135704": {
+    "nome": "Jequitibá",
+    "alunos": 112,
+    "cursos": 36
+  },
+  "3135803": {
+    "nome": "Jequitinhonha",
+    "alunos": 221,
+    "cursos": 29
+  },
+  "3135902": {
+    "nome": "Jesuânia",
+    "alunos": 473,
+    "cursos": 5
+  },
+  "3136108": {
+    "nome": "Joanésia",
+    "alunos": 646,
+    "cursos": 36
+  },
+  "3136405": {
+    "nome": "Joaquim Felício",
+    "alunos": 301,
+    "cursos": 7
+  },
+  "3136009": {
+    "nome": "Joaíma",
+    "alunos": 544,
+    "cursos": 4
+  },
+  "3136504": {
+    "nome": "Jordânia",
+    "alunos": 243,
+    "cursos": 2
+  },
+  "3136579": {
+    "nome": "Josenópolis",
+    "alunos": 709,
+    "cursos": 11
+  },
+  "3136520": {
+    "nome": "José Gonçalves de Minas",
+    "alunos": 182,
+    "cursos": 4
+  },
+  "3136553": {
+    "nome": "José Raydan",
+    "alunos": 230,
+    "cursos": 21
+  },
+  "3136207": {
+    "nome": "João Monlevade",
+    "alunos": 274,
+    "cursos": 28
+  },
+  "3136306": {
+    "nome": "João Pinheiro",
+    "alunos": 640,
+    "cursos": 32
+  },
+  "3136652": {
+    "nome": "Juatuba",
+    "alunos": 618,
+    "cursos": 7
+  },
+  "3136702": {
+    "nome": "Juiz de Fora",
+    "alunos": 167,
+    "cursos": 27
+  },
+  "3136801": {
+    "nome": "Juramento",
+    "alunos": 617,
+    "cursos": 2
+  },
+  "3136900": {
+    "nome": "Juruaia",
+    "alunos": 110,
+    "cursos": 10
+  },
+  "3136959": {
+    "nome": "Juvenília",
+    "alunos": 726,
+    "cursos": 28
+  },
+  "3137007": {
+    "nome": "Ladainha",
+    "alunos": 409,
+    "cursos": 31
+  },
+  "3137106": {
+    "nome": "Lagamar",
+    "alunos": 111,
+    "cursos": 27
+  },
+  "3137403": {
+    "nome": "Lagoa Dourada",
+    "alunos": 607,
+    "cursos": 30
+  },
+  "3137502": {
+    "nome": "Lagoa Formosa",
+    "alunos": 194,
+    "cursos": 35
+  },
+  "3137536": {
+    "nome": "Lagoa Grande",
+    "alunos": 554,
+    "cursos": 31
+  },
+  "3137601": {
+    "nome": "Lagoa Santa",
+    "alunos": 718,
+    "cursos": 23
+  },
+  "3137205": {
+    "nome": "Lagoa da Prata",
+    "alunos": 429,
+    "cursos": 18
+  },
+  "3137304": {
+    "nome": "Lagoa dos Patos",
+    "alunos": 421,
+    "cursos": 9
+  },
+  "3137700": {
+    "nome": "Lajinha",
+    "alunos": 724,
+    "cursos": 26
+  },
+  "3137809": {
+    "nome": "Lambari",
+    "alunos": 597,
+    "cursos": 26
+  },
+  "3137908": {
+    "nome": "Lamim",
+    "alunos": 431,
+    "cursos": 2
+  },
+  "3138005": {
+    "nome": "Laranjal",
+    "alunos": 724,
+    "cursos": 7
+  },
+  "3138104": {
+    "nome": "Lassance",
+    "alunos": 487,
+    "cursos": 17
+  },
+  "3138203": {
+    "nome": "Lavras",
+    "alunos": 517,
+    "cursos": 24
+  },
+  "3138302": {
+    "nome": "Leandro Ferreira",
+    "alunos": 96,
+    "cursos": 23
+  },
+  "3138351": {
+    "nome": "Leme do Prado",
+    "alunos": 488,
+    "cursos": 17
+  },
+  "3138401": {
+    "nome": "Leopoldina",
+    "alunos": 392,
+    "cursos": 29
+  },
+  "3138500": {
+    "nome": "Liberdade",
+    "alunos": 727,
+    "cursos": 13
+  },
+  "3138609": {
+    "nome": "Lima Duarte",
+    "alunos": 296,
+    "cursos": 28
+  },
+  "3138625": {
+    "nome": "Limeira do Oeste",
+    "alunos": 598,
+    "cursos": 15
+  },
+  "3138658": {
+    "nome": "Lontra",
+    "alunos": 267,
+    "cursos": 31
+  },
+  "3138674": {
+    "nome": "Luisburgo",
+    "alunos": 701,
+    "cursos": 27
+  },
+  "3138682": {
+    "nome": "Luislândia",
+    "alunos": 463,
+    "cursos": 22
+  },
+  "3138708": {
+    "nome": "Luminárias",
+    "alunos": 604,
+    "cursos": 12
+  },
+  "3138807": {
+    "nome": "Luz",
+    "alunos": 165,
+    "cursos": 12
+  },
+  "3138906": {
+    "nome": "Machacalis",
+    "alunos": 246,
+    "cursos": 23
+  },
+  "3139003": {
+    "nome": "Machado",
+    "alunos": 411,
+    "cursos": 15
+  },
+  "3139102": {
+    "nome": "Madre de Deus de Minas",
+    "alunos": 259,
+    "cursos": 6
+  },
+  "3139201": {
+    "nome": "Malacacheta",
+    "alunos": 172,
+    "cursos": 32
+  },
+  "3139250": {
+    "nome": "Mamonas",
+    "alunos": 302,
+    "cursos": 8
+  },
+  "3139300": {
+    "nome": "Manga",
+    "alunos": 102,
+    "cursos": 1
+  },
+  "3139409": {
+    "nome": "Manhuaçu",
+    "alunos": 614,
+    "cursos": 15
+  },
+  "3139508": {
+    "nome": "Manhumirim",
+    "alunos": 491,
+    "cursos": 24
+  },
+  "3139607": {
+    "nome": "Mantena",
+    "alunos": 617,
+    "cursos": 9
+  },
+  "3139805": {
+    "nome": "Mar de Espanha",
+    "alunos": 312,
+    "cursos": 32
+  },
+  "3139706": {
+    "nome": "Maravilhas",
+    "alunos": 53,
+    "cursos": 23
+  },
+  "3139904": {
+    "nome": "Maria da Fé",
+    "alunos": 688,
+    "cursos": 11
+  },
+  "3140001": {
+    "nome": "Mariana",
+    "alunos": 274,
+    "cursos": 21
+  },
+  "3140100": {
+    "nome": "Marilac",
+    "alunos": 97,
+    "cursos": 18
+  },
+  "3140209": {
+    "nome": "Maripá de Minas",
+    "alunos": 774,
+    "cursos": 20
+  },
+  "3140308": {
+    "nome": "Marliéria",
+    "alunos": 621,
+    "cursos": 13
+  },
+  "3140407": {
+    "nome": "Marmelópolis",
+    "alunos": 164,
+    "cursos": 14
+  },
+  "3140506": {
+    "nome": "Martinho Campos",
+    "alunos": 460,
+    "cursos": 20
+  },
+  "3140530": {
+    "nome": "Martins Soares",
+    "alunos": 549,
+    "cursos": 14
+  },
+  "3140555": {
+    "nome": "Mata Verde",
+    "alunos": 83,
+    "cursos": 36
+  },
+  "3140605": {
+    "nome": "Materlândia",
+    "alunos": 800,
+    "cursos": 34
+  },
+  "3140704": {
+    "nome": "Mateus Leme",
+    "alunos": 305,
+    "cursos": 6
+  },
+  "3171501": {
+    "nome": "Mathias Lobato",
+    "alunos": 740,
+    "cursos": 13
+  },
+  "3140803": {
+    "nome": "Matias Barbosa",
+    "alunos": 451,
+    "cursos": 36
+  },
+  "3140852": {
+    "nome": "Matias Cardoso",
+    "alunos": 410,
+    "cursos": 3
+  },
+  "3140902": {
+    "nome": "Matipó",
+    "alunos": 766,
+    "cursos": 35
+  },
+  "3141009": {
+    "nome": "Mato Verde",
+    "alunos": 182,
+    "cursos": 17
+  },
+  "3141108": {
+    "nome": "Matozinhos",
+    "alunos": 745,
+    "cursos": 31
+  },
+  "3141207": {
+    "nome": "Matutina",
+    "alunos": 434,
+    "cursos": 31
+  },
+  "3141306": {
+    "nome": "Medeiros",
+    "alunos": 725,
+    "cursos": 14
+  },
+  "3141405": {
+    "nome": "Medina",
+    "alunos": 601,
+    "cursos": 36
+  },
+  "3141504": {
+    "nome": "Mendes Pimentel",
+    "alunos": 577,
+    "cursos": 14
+  },
+  "3141603": {
+    "nome": "Mercês",
+    "alunos": 401,
+    "cursos": 24
+  },
+  "3141702": {
+    "nome": "Mesquita",
+    "alunos": 643,
+    "cursos": 18
+  },
+  "3141801": {
+    "nome": "Minas Novas",
+    "alunos": 678,
+    "cursos": 30
+  },
+  "3141900": {
+    "nome": "Minduri",
+    "alunos": 297,
+    "cursos": 8
+  },
+  "3142007": {
+    "nome": "Mirabela",
+    "alunos": 159,
+    "cursos": 5
+  },
+  "3142106": {
+    "nome": "Miradouro",
+    "alunos": 522,
+    "cursos": 30
+  },
+  "3142254": {
+    "nome": "Miravânia",
+    "alunos": 440,
+    "cursos": 4
+  },
+  "3142205": {
+    "nome": "Miraí",
+    "alunos": 140,
+    "cursos": 8
+  },
+  "3142304": {
+    "nome": "Moeda",
+    "alunos": 166,
+    "cursos": 11
+  },
+  "3142403": {
+    "nome": "Moema",
+    "alunos": 329,
+    "cursos": 26
+  },
+  "3142502": {
+    "nome": "Monjolos",
+    "alunos": 345,
+    "cursos": 27
+  },
+  "3142601": {
+    "nome": "Monsenhor Paulo",
+    "alunos": 371,
+    "cursos": 13
+  },
+  "3142700": {
+    "nome": "Montalvânia",
+    "alunos": 790,
+    "cursos": 29
+  },
+  "3142809": {
+    "nome": "Monte Alegre de Minas",
+    "alunos": 777,
+    "cursos": 23
+  },
+  "3142908": {
+    "nome": "Monte Azul",
+    "alunos": 639,
+    "cursos": 8
+  },
+  "3143005": {
+    "nome": "Monte Belo",
+    "alunos": 781,
+    "cursos": 36
+  },
+  "3143104": {
+    "nome": "Monte Carmelo",
+    "alunos": 83,
+    "cursos": 17
+  },
+  "3143153": {
+    "nome": "Monte Formoso",
+    "alunos": 180,
+    "cursos": 24
+  },
+  "3143203": {
+    "nome": "Monte Santo de Minas",
+    "alunos": 51,
+    "cursos": 7
+  },
+  "3143401": {
+    "nome": "Monte Sião",
+    "alunos": 114,
+    "cursos": 23
+  },
+  "3143302": {
+    "nome": "Montes Claros",
+    "alunos": 681,
+    "cursos": 22
+  },
+  "3143450": {
+    "nome": "Montezuma",
+    "alunos": 102,
+    "cursos": 31
+  },
+  "3143500": {
+    "nome": "Morada Nova de Minas",
+    "alunos": 509,
+    "cursos": 14
+  },
+  "3143609": {
+    "nome": "Morro da Garça",
+    "alunos": 318,
+    "cursos": 24
+  },
+  "3143708": {
+    "nome": "Morro do Pilar",
+    "alunos": 463,
+    "cursos": 12
+  },
+  "3143807": {
+    "nome": "Munhoz",
+    "alunos": 595,
+    "cursos": 12
+  },
+  "3143906": {
+    "nome": "Muriaé",
+    "alunos": 244,
+    "cursos": 2
+  },
+  "3144003": {
+    "nome": "Mutum",
+    "alunos": 268,
+    "cursos": 2
+  },
+  "3144102": {
+    "nome": "Muzambinho",
+    "alunos": 149,
+    "cursos": 1
+  },
+  "3140159": {
+    "nome": "Mário Campos",
+    "alunos": 235,
+    "cursos": 6
+  },
+  "3144201": {
+    "nome": "Nacip Raydan",
+    "alunos": 55,
+    "cursos": 28
+  },
+  "3144300": {
+    "nome": "Nanuque",
+    "alunos": 75,
+    "cursos": 29
+  },
+  "3144359": {
+    "nome": "Naque",
+    "alunos": 379,
+    "cursos": 27
+  },
+  "3144375": {
+    "nome": "Natalândia",
+    "alunos": 352,
+    "cursos": 26
+  },
+  "3144409": {
+    "nome": "Natércia",
+    "alunos": 460,
+    "cursos": 12
+  },
+  "3144508": {
+    "nome": "Nazareno",
+    "alunos": 310,
+    "cursos": 24
+  },
+  "3144607": {
+    "nome": "Nepomuceno",
+    "alunos": 508,
+    "cursos": 1
+  },
+  "3144656": {
+    "nome": "Ninheira",
+    "alunos": 752,
+    "cursos": 15
+  },
+  "3144672": {
+    "nome": "Nova Belém",
+    "alunos": 256,
+    "cursos": 14
+  },
+  "3144706": {
+    "nome": "Nova Era",
+    "alunos": 634,
+    "cursos": 34
+  },
+  "3144805": {
+    "nome": "Nova Lima",
+    "alunos": 728,
+    "cursos": 19
+  },
+  "3144904": {
+    "nome": "Nova Módica",
+    "alunos": 793,
+    "cursos": 34
+  },
+  "3145000": {
+    "nome": "Nova Ponte",
+    "alunos": 688,
+    "cursos": 31
+  },
+  "3145059": {
+    "nome": "Nova Porteirinha",
+    "alunos": 481,
+    "cursos": 16
+  },
+  "3145109": {
+    "nome": "Nova Resende",
+    "alunos": 68,
+    "cursos": 15
+  },
+  "3145208": {
+    "nome": "Nova Serrana",
+    "alunos": 342,
+    "cursos": 8
+  },
+  "3136603": {
+    "nome": "Nova União",
+    "alunos": 412,
+    "cursos": 5
+  },
+  "3145307": {
+    "nome": "Novo Cruzeiro",
+    "alunos": 513,
+    "cursos": 6
+  },
+  "3145356": {
+    "nome": "Novo Oriente de Minas",
+    "alunos": 70,
+    "cursos": 29
+  },
+  "3145372": {
+    "nome": "Novorizonte",
+    "alunos": 669,
+    "cursos": 25
+  },
+  "3145406": {
+    "nome": "Olaria",
+    "alunos": 723,
+    "cursos": 18
+  },
+  "3145455": {
+    "nome": "Olhos-d'Água",
+    "alunos": 153,
+    "cursos": 21
+  },
+  "3145604": {
+    "nome": "Oliveira",
+    "alunos": 682,
+    "cursos": 32
+  },
+  "3145703": {
+    "nome": "Oliveira Fortes",
+    "alunos": 504,
+    "cursos": 29
+  },
+  "3145505": {
+    "nome": "Olímpio Noronha",
+    "alunos": 89,
+    "cursos": 18
+  },
+  "3145802": {
+    "nome": "Onça de Pitangui",
+    "alunos": 721,
+    "cursos": 10
+  },
+  "3145851": {
+    "nome": "Oratórios",
+    "alunos": 741,
+    "cursos": 33
+  },
+  "3145877": {
+    "nome": "Orizânia",
+    "alunos": 687,
+    "cursos": 35
+  },
+  "3145901": {
+    "nome": "Ouro Branco",
+    "alunos": 782,
+    "cursos": 9
+  },
+  "3146008": {
+    "nome": "Ouro Fino",
+    "alunos": 174,
+    "cursos": 20
+  },
+  "3146107": {
+    "nome": "Ouro Preto",
+    "alunos": 575,
+    "cursos": 28
+  },
+  "3146206": {
+    "nome": "Ouro Verde de Minas",
+    "alunos": 525,
+    "cursos": 29
+  },
+  "3146255": {
+    "nome": "Padre Carvalho",
+    "alunos": 212,
+    "cursos": 12
+  },
+  "3146305": {
+    "nome": "Padre Paraíso",
+    "alunos": 530,
+    "cursos": 24
+  },
+  "3146552": {
+    "nome": "Pai Pedro",
+    "alunos": 489,
+    "cursos": 3
+  },
+  "3146404": {
+    "nome": "Paineiras",
+    "alunos": 722,
+    "cursos": 30
+  },
+  "3146503": {
+    "nome": "Pains",
+    "alunos": 165,
+    "cursos": 34
+  },
+  "3146602": {
+    "nome": "Paiva",
+    "alunos": 304,
+    "cursos": 3
+  },
+  "3146701": {
+    "nome": "Palma",
+    "alunos": 266,
+    "cursos": 1
+  },
+  "3146750": {
+    "nome": "Palmópolis",
+    "alunos": 731,
+    "cursos": 34
+  },
+  "3146909": {
+    "nome": "Papagaios",
+    "alunos": 398,
+    "cursos": 9
+  },
+  "3147006": {
+    "nome": "Paracatu",
+    "alunos": 512,
+    "cursos": 25
+  },
+  "3147204": {
+    "nome": "Paraguaçu",
+    "alunos": 67,
+    "cursos": 18
+  },
+  "3147303": {
+    "nome": "Paraisópolis",
+    "alunos": 505,
+    "cursos": 5
+  },
+  "3147402": {
+    "nome": "Paraopeba",
+    "alunos": 385,
+    "cursos": 26
+  },
+  "3147105": {
+    "nome": "Pará de Minas",
+    "alunos": 257,
+    "cursos": 26
+  },
+  "3147600": {
+    "nome": "Passa Quatro",
+    "alunos": 268,
+    "cursos": 19
+  },
+  "3147709": {
+    "nome": "Passa Tempo",
+    "alunos": 74,
+    "cursos": 5
+  },
+  "3147808": {
+    "nome": "Passa Vinte",
+    "alunos": 767,
+    "cursos": 3
+  },
+  "3147501": {
+    "nome": "Passabém",
+    "alunos": 779,
+    "cursos": 22
+  },
+  "3147907": {
+    "nome": "Passos",
+    "alunos": 88,
+    "cursos": 22
+  },
+  "3147956": {
+    "nome": "Patis",
+    "alunos": 334,
+    "cursos": 35
+  },
+  "3148004": {
+    "nome": "Patos de Minas",
+    "alunos": 759,
+    "cursos": 14
+  },
+  "3148103": {
+    "nome": "Patrocínio",
+    "alunos": 75,
+    "cursos": 10
+  },
+  "3148202": {
+    "nome": "Patrocínio do Muriaé",
+    "alunos": 198,
+    "cursos": 21
+  },
+  "3148301": {
+    "nome": "Paula Cândido",
+    "alunos": 493,
+    "cursos": 25
+  },
+  "3148400": {
+    "nome": "Paulistas",
+    "alunos": 642,
+    "cursos": 13
+  },
+  "3148509": {
+    "nome": "Pavão",
+    "alunos": 589,
+    "cursos": 34
+  },
+  "3148707": {
+    "nome": "Pedra Azul",
+    "alunos": 583,
+    "cursos": 2
+  },
+  "3148756": {
+    "nome": "Pedra Bonita",
+    "alunos": 670,
+    "cursos": 27
+  },
+  "3149002": {
+    "nome": "Pedra Dourada",
+    "alunos": 115,
+    "cursos": 3
+  },
+  "3148806": {
+    "nome": "Pedra do Anta",
+    "alunos": 54,
+    "cursos": 2
+  },
+  "3148905": {
+    "nome": "Pedra do Indaiá",
+    "alunos": 581,
+    "cursos": 28
+  },
+  "3149101": {
+    "nome": "Pedralva",
+    "alunos": 772,
+    "cursos": 31
+  },
+  "3149150": {
+    "nome": "Pedras de Maria da Cruz",
+    "alunos": 105,
+    "cursos": 6
+  },
+  "3149200": {
+    "nome": "Pedrinópolis",
+    "alunos": 257,
+    "cursos": 35
+  },
+  "3149309": {
+    "nome": "Pedro Leopoldo",
+    "alunos": 221,
+    "cursos": 31
+  },
+  "3149408": {
+    "nome": "Pedro Teixeira",
+    "alunos": 384,
+    "cursos": 32
+  },
+  "3149507": {
+    "nome": "Pequeri",
+    "alunos": 287,
+    "cursos": 18
+  },
+  "3149606": {
+    "nome": "Pequi",
+    "alunos": 384,
+    "cursos": 24
+  },
+  "3149705": {
+    "nome": "Perdigão",
+    "alunos": 236,
+    "cursos": 4
+  },
+  "3149804": {
+    "nome": "Perdizes",
+    "alunos": 83,
+    "cursos": 6
+  },
+  "3149903": {
+    "nome": "Perdões",
+    "alunos": 67,
+    "cursos": 24
+  },
+  "3149952": {
+    "nome": "Periquito",
+    "alunos": 684,
+    "cursos": 29
+  },
+  "3150000": {
+    "nome": "Pescador",
+    "alunos": 302,
+    "cursos": 1
+  },
+  "3148608": {
+    "nome": "Peçanha",
+    "alunos": 538,
+    "cursos": 35
+  },
+  "3150109": {
+    "nome": "Piau",
+    "alunos": 622,
+    "cursos": 4
+  },
+  "3150158": {
+    "nome": "Piedade de Caratinga",
+    "alunos": 265,
+    "cursos": 11
+  },
+  "3150208": {
+    "nome": "Piedade de Ponte Nova",
+    "alunos": 781,
+    "cursos": 9
+  },
+  "3150307": {
+    "nome": "Piedade do Rio Grande",
+    "alunos": 800,
+    "cursos": 20
+  },
+  "3150406": {
+    "nome": "Piedade dos Gerais",
+    "alunos": 765,
+    "cursos": 5
+  },
+  "3150505": {
+    "nome": "Pimenta",
+    "alunos": 642,
+    "cursos": 15
+  },
+  "3150539": {
+    "nome": "Pingo-d'Água",
+    "alunos": 637,
+    "cursos": 17
+  },
+  "3150570": {
+    "nome": "Pintópolis",
+    "alunos": 789,
+    "cursos": 33
+  },
+  "3150604": {
+    "nome": "Piracema",
+    "alunos": 635,
+    "cursos": 21
+  },
+  "3150703": {
+    "nome": "Pirajuba",
+    "alunos": 55,
+    "cursos": 21
+  },
+  "3150802": {
+    "nome": "Piranga",
+    "alunos": 141,
+    "cursos": 25
+  },
+  "3151008": {
+    "nome": "Piranguinho",
+    "alunos": 134,
+    "cursos": 4
+  },
+  "3150901": {
+    "nome": "Piranguçu",
+    "alunos": 679,
+    "cursos": 1
+  },
+  "3151107": {
+    "nome": "Pirapetinga",
+    "alunos": 429,
+    "cursos": 8
+  },
+  "3151206": {
+    "nome": "Pirapora",
+    "alunos": 778,
+    "cursos": 22
+  },
+  "3151305": {
+    "nome": "Piraúba",
+    "alunos": 422,
+    "cursos": 17
+  },
+  "3151404": {
+    "nome": "Pitangui",
+    "alunos": 735,
+    "cursos": 26
+  },
+  "3151503": {
+    "nome": "Piumhi",
+    "alunos": 542,
+    "cursos": 2
+  },
+  "3151602": {
+    "nome": "Planura",
+    "alunos": 303,
+    "cursos": 18
+  },
+  "3151909": {
+    "nome": "Pocrane",
+    "alunos": 534,
+    "cursos": 18
+  },
+  "3152006": {
+    "nome": "Pompéu",
+    "alunos": 495,
+    "cursos": 24
+  },
+  "3152105": {
+    "nome": "Ponte Nova",
+    "alunos": 231,
+    "cursos": 10
+  },
+  "3152131": {
+    "nome": "Ponto Chique",
+    "alunos": 256,
+    "cursos": 35
+  },
+  "3152170": {
+    "nome": "Ponto dos Volantes",
+    "alunos": 528,
+    "cursos": 32
+  },
+  "3152204": {
+    "nome": "Porteirinha",
+    "alunos": 436,
+    "cursos": 22
+  },
+  "3152303": {
+    "nome": "Porto Firme",
+    "alunos": 673,
+    "cursos": 28
+  },
+  "3152402": {
+    "nome": "Poté",
+    "alunos": 636,
+    "cursos": 7
+  },
+  "3152501": {
+    "nome": "Pouso Alegre",
+    "alunos": 491,
+    "cursos": 21
+  },
+  "3152600": {
+    "nome": "Pouso Alto",
+    "alunos": 552,
+    "cursos": 4
+  },
+  "3151701": {
+    "nome": "Poço Fundo",
+    "alunos": 342,
+    "cursos": 5
+  },
+  "3151800": {
+    "nome": "Poços de Caldas",
+    "alunos": 417,
+    "cursos": 1
+  },
+  "3152709": {
+    "nome": "Prados",
+    "alunos": 384,
+    "cursos": 27
+  },
+  "3152808": {
+    "nome": "Prata",
+    "alunos": 82,
+    "cursos": 31
+  },
+  "3153004": {
+    "nome": "Pratinha",
+    "alunos": 239,
+    "cursos": 24
+  },
+  "3152907": {
+    "nome": "Pratápolis",
+    "alunos": 663,
+    "cursos": 2
+  },
+  "3153103": {
+    "nome": "Presidente Bernardes",
+    "alunos": 322,
+    "cursos": 19
+  },
+  "3153202": {
+    "nome": "Presidente Juscelino",
+    "alunos": 523,
+    "cursos": 16
+  },
+  "3153301": {
+    "nome": "Presidente Kubitschek",
+    "alunos": 313,
+    "cursos": 15
+  },
+  "3153400": {
+    "nome": "Presidente Olegário",
+    "alunos": 236,
+    "cursos": 31
+  },
+  "3153608": {
+    "nome": "Prudente de Morais",
+    "alunos": 519,
+    "cursos": 28
+  },
+  "3153707": {
+    "nome": "Quartel Geral",
+    "alunos": 646,
+    "cursos": 29
+  },
+  "3153806": {
+    "nome": "Queluzito",
+    "alunos": 178,
+    "cursos": 23
+  },
+  "3153905": {
+    "nome": "Raposos",
+    "alunos": 739,
+    "cursos": 3
+  },
+  "3154002": {
+    "nome": "Raul Soares",
+    "alunos": 481,
+    "cursos": 29
+  },
+  "3154101": {
+    "nome": "Recreio",
+    "alunos": 412,
+    "cursos": 31
+  },
+  "3154150": {
+    "nome": "Reduto",
+    "alunos": 178,
+    "cursos": 20
+  },
+  "3154200": {
+    "nome": "Resende Costa",
+    "alunos": 716,
+    "cursos": 29
+  },
+  "3154309": {
+    "nome": "Resplendor",
+    "alunos": 557,
+    "cursos": 9
+  },
+  "3154408": {
+    "nome": "Ressaquinha",
+    "alunos": 378,
+    "cursos": 5
+  },
+  "3154457": {
+    "nome": "Riachinho",
+    "alunos": 740,
+    "cursos": 15
+  },
+  "3154507": {
+    "nome": "Riacho dos Machados",
+    "alunos": 135,
+    "cursos": 7
+  },
+  "3154705": {
+    "nome": "Ribeirão Vermelho",
+    "alunos": 117,
+    "cursos": 5
+  },
+  "3154606": {
+    "nome": "Ribeirão das Neves",
+    "alunos": 337,
+    "cursos": 2
+  },
+  "3154804": {
+    "nome": "Rio Acima",
+    "alunos": 271,
+    "cursos": 19
+  },
+  "3154903": {
+    "nome": "Rio Casca",
+    "alunos": 521,
+    "cursos": 15
+  },
+  "3155009": {
+    "nome": "Rio Doce",
+    "alunos": 584,
+    "cursos": 8
+  },
+  "3155207": {
+    "nome": "Rio Espera",
+    "alunos": 571,
+    "cursos": 3
+  },
+  "3155306": {
+    "nome": "Rio Manso",
+    "alunos": 357,
+    "cursos": 27
+  },
+  "3155405": {
+    "nome": "Rio Novo",
+    "alunos": 454,
+    "cursos": 34
+  },
+  "3155504": {
+    "nome": "Rio Paranaíba",
+    "alunos": 513,
+    "cursos": 14
+  },
+  "3155603": {
+    "nome": "Rio Pardo de Minas",
+    "alunos": 283,
+    "cursos": 2
+  },
+  "3155702": {
+    "nome": "Rio Piracicaba",
+    "alunos": 486,
+    "cursos": 35
+  },
+  "3155801": {
+    "nome": "Rio Pomba",
+    "alunos": 462,
+    "cursos": 26
+  },
+  "3155900": {
+    "nome": "Rio Preto",
+    "alunos": 788,
+    "cursos": 6
+  },
+  "3156007": {
+    "nome": "Rio Vermelho",
+    "alunos": 556,
+    "cursos": 18
+  },
+  "3155108": {
+    "nome": "Rio do Prado",
+    "alunos": 200,
+    "cursos": 23
+  },
+  "3156106": {
+    "nome": "Ritápolis",
+    "alunos": 354,
+    "cursos": 27
+  },
+  "3156205": {
+    "nome": "Rochedo de Minas",
+    "alunos": 242,
+    "cursos": 10
+  },
+  "3156304": {
+    "nome": "Rodeiro",
+    "alunos": 310,
+    "cursos": 5
+  },
+  "3156403": {
+    "nome": "Romaria",
+    "alunos": 487,
+    "cursos": 26
+  },
+  "3156452": {
+    "nome": "Rosário da Limeira",
+    "alunos": 422,
+    "cursos": 23
+  },
+  "3156502": {
+    "nome": "Rubelita",
+    "alunos": 639,
+    "cursos": 5
+  },
+  "3156601": {
+    "nome": "Rubim",
+    "alunos": 221,
+    "cursos": 29
+  },
+  "3156700": {
+    "nome": "Sabará",
+    "alunos": 669,
+    "cursos": 30
+  },
+  "3156809": {
+    "nome": "Sabinópolis",
+    "alunos": 167,
+    "cursos": 17
+  },
+  "3156908": {
+    "nome": "Sacramento",
+    "alunos": 595,
+    "cursos": 35
+  },
+  "3157005": {
+    "nome": "Salinas",
+    "alunos": 331,
+    "cursos": 3
+  },
+  "3157104": {
+    "nome": "Salto da Divisa",
+    "alunos": 430,
+    "cursos": 33
+  },
+  "3157203": {
+    "nome": "Santa Bárbara",
+    "alunos": 61,
+    "cursos": 26
+  },
+  "3157252": {
+    "nome": "Santa Bárbara do Leste",
+    "alunos": 85,
+    "cursos": 28
+  },
+  "3157278": {
+    "nome": "Santa Bárbara do Monte Verde",
+    "alunos": 455,
+    "cursos": 12
+  },
+  "3157302": {
+    "nome": "Santa Bárbara do Tugúrio",
+    "alunos": 375,
+    "cursos": 23
+  },
+  "3157336": {
+    "nome": "Santa Cruz de Minas",
+    "alunos": 286,
+    "cursos": 34
+  },
+  "3157377": {
+    "nome": "Santa Cruz de Salinas",
+    "alunos": 631,
+    "cursos": 35
+  },
+  "3157401": {
+    "nome": "Santa Cruz do Escalvado",
+    "alunos": 590,
+    "cursos": 22
+  },
+  "3157500": {
+    "nome": "Santa Efigênia de Minas",
+    "alunos": 722,
+    "cursos": 27
+  },
+  "3157609": {
+    "nome": "Santa Fé de Minas",
+    "alunos": 162,
+    "cursos": 12
+  },
+  "3157658": {
+    "nome": "Santa Helena de Minas",
+    "alunos": 250,
+    "cursos": 31
+  },
+  "3157708": {
+    "nome": "Santa Juliana",
+    "alunos": 636,
+    "cursos": 12
+  },
+  "3157807": {
+    "nome": "Santa Luzia",
+    "alunos": 58,
+    "cursos": 18
+  },
+  "3157906": {
+    "nome": "Santa Margarida",
+    "alunos": 648,
+    "cursos": 10
+  },
+  "3158003": {
+    "nome": "Santa Maria de Itabira",
+    "alunos": 445,
+    "cursos": 19
+  },
+  "3158102": {
+    "nome": "Santa Maria do Salto",
+    "alunos": 302,
+    "cursos": 32
+  },
+  "3158201": {
+    "nome": "Santa Maria do Suaçuí",
+    "alunos": 250,
+    "cursos": 19
+  },
+  "3159209": {
+    "nome": "Santa Rita de Caldas",
+    "alunos": 312,
+    "cursos": 7
+  },
+  "3159407": {
+    "nome": "Santa Rita de Ibitipoca",
+    "alunos": 266,
+    "cursos": 8
+  },
+  "3159308": {
+    "nome": "Santa Rita de Jacutinga",
+    "alunos": 295,
+    "cursos": 23
+  },
+  "3159357": {
+    "nome": "Santa Rita de Minas",
+    "alunos": 484,
+    "cursos": 35
+  },
+  "3159506": {
+    "nome": "Santa Rita do Itueto",
+    "alunos": 783,
+    "cursos": 26
+  },
+  "3159605": {
+    "nome": "Santa Rita do Sapucaí",
+    "alunos": 436,
+    "cursos": 7
+  },
+  "3159704": {
+    "nome": "Santa Rosa da Serra",
+    "alunos": 235,
+    "cursos": 32
+  },
+  "3159803": {
+    "nome": "Santa Vitória",
+    "alunos": 770,
+    "cursos": 9
+  },
+  "3158300": {
+    "nome": "Santana da Vargem",
+    "alunos": 459,
+    "cursos": 1
+  },
+  "3158409": {
+    "nome": "Santana de Cataguases",
+    "alunos": 520,
+    "cursos": 4
+  },
+  "3158508": {
+    "nome": "Santana de Pirapama",
+    "alunos": 658,
+    "cursos": 14
+  },
+  "3158607": {
+    "nome": "Santana do Deserto",
+    "alunos": 235,
+    "cursos": 19
+  },
+  "3158706": {
+    "nome": "Santana do Garambéu",
+    "alunos": 419,
+    "cursos": 34
+  },
+  "3158805": {
+    "nome": "Santana do Jacaré",
+    "alunos": 397,
+    "cursos": 4
+  },
+  "3158904": {
+    "nome": "Santana do Manhuaçu",
+    "alunos": 410,
+    "cursos": 28
+  },
+  "3158953": {
+    "nome": "Santana do Paraíso",
+    "alunos": 260,
+    "cursos": 16
+  },
+  "3159001": {
+    "nome": "Santana do Riacho",
+    "alunos": 423,
+    "cursos": 25
+  },
+  "3159100": {
+    "nome": "Santana dos Montes",
+    "alunos": 220,
+    "cursos": 31
+  },
+  "3159902": {
+    "nome": "Santo Antônio do Amparo",
+    "alunos": 777,
+    "cursos": 36
+  },
+  "3160009": {
+    "nome": "Santo Antônio do Aventureiro",
+    "alunos": 224,
+    "cursos": 5
+  },
+  "3160108": {
+    "nome": "Santo Antônio do Grama",
+    "alunos": 348,
+    "cursos": 14
+  },
+  "3160207": {
+    "nome": "Santo Antônio do Itambé",
+    "alunos": 259,
+    "cursos": 27
+  },
+  "3160306": {
+    "nome": "Santo Antônio do Jacinto",
+    "alunos": 109,
+    "cursos": 5
+  },
+  "3160405": {
+    "nome": "Santo Antônio do Monte",
+    "alunos": 501,
+    "cursos": 8
+  },
+  "3160454": {
+    "nome": "Santo Antônio do Retiro",
+    "alunos": 311,
+    "cursos": 34
+  },
+  "3160504": {
+    "nome": "Santo Antônio do Rio Abaixo",
+    "alunos": 295,
+    "cursos": 8
+  },
+  "3160603": {
+    "nome": "Santo Hipólito",
+    "alunos": 184,
+    "cursos": 1
+  },
+  "3160702": {
+    "nome": "Santos Dumont",
+    "alunos": 161,
+    "cursos": 29
+  },
+  "3165404": {
+    "nome": "Sapucaí-Mirim",
+    "alunos": 643,
+    "cursos": 26
+  },
+  "3165503": {
+    "nome": "Sardoá",
+    "alunos": 559,
+    "cursos": 19
+  },
+  "3165537": {
+    "nome": "Sarzedo",
+    "alunos": 624,
+    "cursos": 10
+  },
+  "3165560": {
+    "nome": "Sem-Peixe",
+    "alunos": 262,
+    "cursos": 23
+  },
+  "3165578": {
+    "nome": "Senador Amaral",
+    "alunos": 744,
+    "cursos": 34
+  },
+  "3165602": {
+    "nome": "Senador Cortes",
+    "alunos": 707,
+    "cursos": 23
+  },
+  "3165701": {
+    "nome": "Senador Firmino",
+    "alunos": 730,
+    "cursos": 10
+  },
+  "3165800": {
+    "nome": "Senador José Bento",
+    "alunos": 175,
+    "cursos": 31
+  },
+  "3165909": {
+    "nome": "Senador Modestino Gonçalves",
+    "alunos": 411,
+    "cursos": 6
+  },
+  "3166006": {
+    "nome": "Senhora de Oliveira",
+    "alunos": 314,
+    "cursos": 32
+  },
+  "3166105": {
+    "nome": "Senhora do Porto",
+    "alunos": 798,
+    "cursos": 13
+  },
+  "3166204": {
+    "nome": "Senhora dos Remédios",
+    "alunos": 395,
+    "cursos": 36
+  },
+  "3166303": {
+    "nome": "Sericita",
+    "alunos": 110,
+    "cursos": 3
+  },
+  "3166402": {
+    "nome": "Seritinga",
+    "alunos": 187,
+    "cursos": 23
+  },
+  "3166501": {
+    "nome": "Serra Azul de Minas",
+    "alunos": 118,
+    "cursos": 4
+  },
+  "3166600": {
+    "nome": "Serra da Saudade",
+    "alunos": 233,
+    "cursos": 33
+  },
+  "3166808": {
+    "nome": "Serra do Salitre",
+    "alunos": 73,
+    "cursos": 5
+  },
+  "3166709": {
+    "nome": "Serra dos Aimorés",
+    "alunos": 412,
+    "cursos": 25
+  },
+  "3166907": {
+    "nome": "Serrania",
+    "alunos": 104,
+    "cursos": 14
+  },
+  "3167004": {
+    "nome": "Serranos",
+    "alunos": 210,
+    "cursos": 11
+  },
+  "3166956": {
+    "nome": "Serranópolis de Minas",
+    "alunos": 741,
+    "cursos": 3
+  },
+  "3167103": {
+    "nome": "Serro",
+    "alunos": 343,
+    "cursos": 20
+  },
+  "3167202": {
+    "nome": "Sete Lagoas",
+    "alunos": 516,
+    "cursos": 11
+  },
+  "3165552": {
+    "nome": "Setubinha",
+    "alunos": 695,
+    "cursos": 4
+  },
+  "3167301": {
+    "nome": "Silveirânia",
+    "alunos": 165,
+    "cursos": 31
+  },
+  "3167400": {
+    "nome": "Silvianópolis",
+    "alunos": 126,
+    "cursos": 5
+  },
+  "3167608": {
+    "nome": "Simonésia",
+    "alunos": 695,
+    "cursos": 17
+  },
+  "3167509": {
+    "nome": "Simão Pereira",
+    "alunos": 299,
+    "cursos": 9
+  },
+  "3167707": {
+    "nome": "Sobrália",
+    "alunos": 185,
+    "cursos": 28
+  },
+  "3167806": {
+    "nome": "Soledade de Minas",
+    "alunos": 469,
+    "cursos": 26
+  },
+  "3160801": {
+    "nome": "São Bento Abade",
+    "alunos": 611,
+    "cursos": 26
+  },
+  "3160900": {
+    "nome": "São Brás do Suaçuí",
+    "alunos": 60,
+    "cursos": 8
+  },
+  "3160959": {
+    "nome": "São Domingos das Dores",
+    "alunos": 90,
+    "cursos": 8
+  },
+  "3161007": {
+    "nome": "São Domingos do Prata",
+    "alunos": 369,
+    "cursos": 21
+  },
+  "3161106": {
+    "nome": "São Francisco",
+    "alunos": 606,
+    "cursos": 22
+  },
+  "3161205": {
+    "nome": "São Francisco de Paula",
+    "alunos": 185,
+    "cursos": 35
+  },
+  "3161304": {
+    "nome": "São Francisco de Sales",
+    "alunos": 451,
+    "cursos": 14
+  },
+  "3161403": {
+    "nome": "São Francisco do Glória",
+    "alunos": 192,
+    "cursos": 19
+  },
+  "3161056": {
+    "nome": "São Félix de Minas",
+    "alunos": 532,
+    "cursos": 28
+  },
+  "3161502": {
+    "nome": "São Geraldo",
+    "alunos": 421,
+    "cursos": 6
+  },
+  "3161601": {
+    "nome": "São Geraldo da Piedade",
+    "alunos": 483,
+    "cursos": 10
+  },
+  "3161650": {
+    "nome": "São Geraldo do Baixio",
+    "alunos": 778,
+    "cursos": 30
+  },
+  "3161700": {
+    "nome": "São Gonçalo do Abaeté",
+    "alunos": 237,
+    "cursos": 16
+  },
+  "3161809": {
+    "nome": "São Gonçalo do Pará",
+    "alunos": 503,
+    "cursos": 10
+  },
+  "3161908": {
+    "nome": "São Gonçalo do Rio Abaixo",
+    "alunos": 512,
+    "cursos": 19
+  },
+  "3125507": {
+    "nome": "São Gonçalo do Rio Preto",
+    "alunos": 183,
+    "cursos": 20
+  },
+  "3162005": {
+    "nome": "São Gonçalo do Sapucaí",
+    "alunos": 762,
+    "cursos": 18
+  },
+  "3162104": {
+    "nome": "São Gotardo",
+    "alunos": 57,
+    "cursos": 13
+  },
+  "3162922": {
+    "nome": "São Joaquim de Bicas",
+    "alunos": 791,
+    "cursos": 4
+  },
+  "3162948": {
+    "nome": "São José da Barra",
+    "alunos": 100,
+    "cursos": 34
+  },
+  "3162955": {
+    "nome": "São José da Lapa",
+    "alunos": 748,
+    "cursos": 9
+  },
+  "3163003": {
+    "nome": "São José da Safira",
+    "alunos": 762,
+    "cursos": 5
+  },
+  "3163102": {
+    "nome": "São José da Varginha",
+    "alunos": 487,
+    "cursos": 34
+  },
+  "3163201": {
+    "nome": "São José do Alegre",
+    "alunos": 626,
+    "cursos": 11
+  },
+  "3163300": {
+    "nome": "São José do Divino",
+    "alunos": 504,
+    "cursos": 32
+  },
+  "3163409": {
+    "nome": "São José do Goiabal",
+    "alunos": 360,
+    "cursos": 12
+  },
+  "3163508": {
+    "nome": "São José do Jacuri",
+    "alunos": 781,
+    "cursos": 12
+  },
+  "3163607": {
+    "nome": "São José do Mantimento",
+    "alunos": 715,
+    "cursos": 20
+  },
+  "3162203": {
+    "nome": "São João Batista do Glória",
+    "alunos": 461,
+    "cursos": 32
+  },
+  "3162807": {
+    "nome": "São João Evangelista",
+    "alunos": 278,
+    "cursos": 7
+  },
+  "3162906": {
+    "nome": "São João Nepomuceno",
+    "alunos": 439,
+    "cursos": 2
+  },
+  "3162252": {
+    "nome": "São João da Lagoa",
+    "alunos": 259,
+    "cursos": 28
+  },
+  "3162302": {
+    "nome": "São João da Mata",
+    "alunos": 585,
+    "cursos": 23
+  },
+  "3162401": {
+    "nome": "São João da Ponte",
+    "alunos": 246,
+    "cursos": 34
+  },
+  "3162450": {
+    "nome": "São João das Missões",
+    "alunos": 779,
+    "cursos": 24
+  },
+  "3162500": {
+    "nome": "São João del Rei",
+    "alunos": 777,
+    "cursos": 5
+  },
+  "3162559": {
+    "nome": "São João do Manhuaçu",
+    "alunos": 759,
+    "cursos": 36
+  },
+  "3162575": {
+    "nome": "São João do Manteninha",
+    "alunos": 416,
+    "cursos": 28
+  },
+  "3162609": {
+    "nome": "São João do Oriente",
+    "alunos": 532,
+    "cursos": 24
+  },
+  "3162658": {
+    "nome": "São João do Pacuí",
+    "alunos": 334,
+    "cursos": 15
+  },
+  "3162708": {
+    "nome": "São João do Paraíso",
+    "alunos": 506,
+    "cursos": 9
+  },
+  "3163706": {
+    "nome": "São Lourenço",
+    "alunos": 62,
+    "cursos": 10
+  },
+  "3163805": {
+    "nome": "São Miguel do Anta",
+    "alunos": 590,
+    "cursos": 19
+  },
+  "3163904": {
+    "nome": "São Pedro da União",
+    "alunos": 756,
+    "cursos": 21
+  },
+  "3164100": {
+    "nome": "São Pedro do Suaçuí",
+    "alunos": 288,
+    "cursos": 28
+  },
+  "3164001": {
+    "nome": "São Pedro dos Ferros",
+    "alunos": 137,
+    "cursos": 17
+  },
+  "3164209": {
+    "nome": "São Romão",
+    "alunos": 174,
+    "cursos": 30
+  },
+  "3164308": {
+    "nome": "São Roque de Minas",
+    "alunos": 484,
+    "cursos": 34
+  },
+  "3164407": {
+    "nome": "São Sebastião da Bela Vista",
+    "alunos": 682,
+    "cursos": 9
+  },
+  "3164431": {
+    "nome": "São Sebastião da Vargem Alegre",
+    "alunos": 733,
+    "cursos": 12
+  },
+  "3164472": {
+    "nome": "São Sebastião do Anta",
+    "alunos": 236,
+    "cursos": 19
+  },
+  "3164506": {
+    "nome": "São Sebastião do Maranhão",
+    "alunos": 371,
+    "cursos": 7
+  },
+  "3164605": {
+    "nome": "São Sebastião do Oeste",
+    "alunos": 272,
+    "cursos": 11
+  },
+  "3164704": {
+    "nome": "São Sebastião do Paraíso",
+    "alunos": 547,
+    "cursos": 13
+  },
+  "3164803": {
+    "nome": "São Sebastião do Rio Preto",
+    "alunos": 125,
+    "cursos": 24
+  },
+  "3164902": {
+    "nome": "São Sebastião do Rio Verde",
+    "alunos": 651,
+    "cursos": 1
+  },
+  "3165008": {
+    "nome": "São Tiago",
+    "alunos": 702,
+    "cursos": 25
+  },
+  "3165107": {
+    "nome": "São Tomás de Aquino",
+    "alunos": 492,
+    "cursos": 28
+  },
+  "3165206": {
+    "nome": "São Tomé das Letras",
+    "alunos": 590,
+    "cursos": 36
+  },
+  "3165305": {
+    "nome": "São Vicente de Minas",
+    "alunos": 559,
+    "cursos": 11
+  },
+  "3167905": {
+    "nome": "Tabuleiro",
+    "alunos": 519,
+    "cursos": 32
+  },
+  "3168002": {
+    "nome": "Taiobeiras",
+    "alunos": 96,
+    "cursos": 24
+  },
+  "3168051": {
+    "nome": "Taparuba",
+    "alunos": 740,
+    "cursos": 24
+  },
+  "3168101": {
+    "nome": "Tapira",
+    "alunos": 651,
+    "cursos": 7
+  },
+  "3168200": {
+    "nome": "Tapiraí",
+    "alunos": 661,
+    "cursos": 16
+  },
+  "3168309": {
+    "nome": "Taquaraçu de Minas",
+    "alunos": 199,
+    "cursos": 35
+  },
+  "3168408": {
+    "nome": "Tarumirim",
+    "alunos": 673,
+    "cursos": 35
+  },
+  "3168507": {
+    "nome": "Teixeiras",
+    "alunos": 691,
+    "cursos": 20
+  },
+  "3168606": {
+    "nome": "Teófilo Otoni",
+    "alunos": 515,
+    "cursos": 20
+  },
+  "3168705": {
+    "nome": "Timóteo",
+    "alunos": 250,
+    "cursos": 24
+  },
+  "3168804": {
+    "nome": "Tiradentes",
+    "alunos": 52,
+    "cursos": 6
+  },
+  "3168903": {
+    "nome": "Tiros",
+    "alunos": 681,
+    "cursos": 27
+  },
+  "3169000": {
+    "nome": "Tocantins",
+    "alunos": 210,
+    "cursos": 8
+  },
+  "3169059": {
+    "nome": "Tocos do Moji",
+    "alunos": 564,
+    "cursos": 15
+  },
+  "3169109": {
+    "nome": "Toledo",
+    "alunos": 91,
+    "cursos": 15
+  },
+  "3169208": {
+    "nome": "Tombos",
+    "alunos": 782,
+    "cursos": 19
+  },
+  "3169307": {
+    "nome": "Três Corações",
+    "alunos": 175,
+    "cursos": 15
+  },
+  "3169356": {
+    "nome": "Três Marias",
+    "alunos": 589,
+    "cursos": 8
+  },
+  "3169406": {
+    "nome": "Três Pontas",
+    "alunos": 390,
+    "cursos": 1
+  },
+  "3169505": {
+    "nome": "Tumiritinga",
+    "alunos": 721,
+    "cursos": 22
+  },
+  "3169604": {
+    "nome": "Tupaciguara",
+    "alunos": 563,
+    "cursos": 32
+  },
+  "3169703": {
+    "nome": "Turmalina",
+    "alunos": 481,
+    "cursos": 11
+  },
+  "3169802": {
+    "nome": "Turvolândia",
+    "alunos": 468,
+    "cursos": 17
+  },
+  "3170057": {
+    "nome": "Ubaporanga",
+    "alunos": 623,
+    "cursos": 15
+  },
+  "3170008": {
+    "nome": "Ubaí",
+    "alunos": 290,
+    "cursos": 29
+  },
+  "3170107": {
+    "nome": "Uberaba",
+    "alunos": 758,
+    "cursos": 8
+  },
+  "3170206": {
+    "nome": "Uberlândia",
+    "alunos": 444,
+    "cursos": 3
+  },
+  "3169901": {
+    "nome": "Ubá",
+    "alunos": 451,
+    "cursos": 16
+  },
+  "3170305": {
+    "nome": "Umburatiba",
+    "alunos": 408,
+    "cursos": 29
+  },
+  "3170404": {
+    "nome": "Unaí",
+    "alunos": 202,
+    "cursos": 5
+  },
+  "3170438": {
+    "nome": "União de Minas",
+    "alunos": 106,
+    "cursos": 12
+  },
+  "3170479": {
+    "nome": "Uruana de Minas",
+    "alunos": 367,
+    "cursos": 21
+  },
+  "3170529": {
+    "nome": "Urucuia",
+    "alunos": 354,
+    "cursos": 7
+  },
+  "3170503": {
+    "nome": "Urucânia",
+    "alunos": 679,
+    "cursos": 13
+  },
+  "3170578": {
+    "nome": "Vargem Alegre",
+    "alunos": 630,
+    "cursos": 1
+  },
+  "3170602": {
+    "nome": "Vargem Bonita",
+    "alunos": 133,
+    "cursos": 2
+  },
+  "3170651": {
+    "nome": "Vargem Grande do Rio Pardo",
+    "alunos": 713,
+    "cursos": 34
+  },
+  "3170701": {
+    "nome": "Varginha",
+    "alunos": 427,
+    "cursos": 18
+  },
+  "3170750": {
+    "nome": "Varjão de Minas",
+    "alunos": 554,
+    "cursos": 6
+  },
+  "3170909": {
+    "nome": "Varzelândia",
+    "alunos": 727,
+    "cursos": 3
+  },
+  "3171006": {
+    "nome": "Vazante",
+    "alunos": 759,
+    "cursos": 33
+  },
+  "3171030": {
+    "nome": "Verdelândia",
+    "alunos": 335,
+    "cursos": 15
+  },
+  "3171071": {
+    "nome": "Veredinha",
+    "alunos": 570,
+    "cursos": 1
+  },
+  "3171154": {
+    "nome": "Vermelho Novo",
+    "alunos": 234,
+    "cursos": 28
+  },
+  "3171105": {
+    "nome": "Veríssimo",
+    "alunos": 260,
+    "cursos": 23
+  },
+  "3171204": {
+    "nome": "Vespasiano",
+    "alunos": 640,
+    "cursos": 27
+  },
+  "3171402": {
+    "nome": "Vieiras",
+    "alunos": 553,
+    "cursos": 12
+  },
+  "3171600": {
+    "nome": "Virgem da Lapa",
+    "alunos": 170,
+    "cursos": 13
+  },
+  "3171808": {
+    "nome": "Virginópolis",
+    "alunos": 215,
+    "cursos": 3
+  },
+  "3171907": {
+    "nome": "Virgolândia",
+    "alunos": 307,
+    "cursos": 22
+  },
+  "3171709": {
+    "nome": "Virgínia",
+    "alunos": 697,
+    "cursos": 34
+  },
+  "3172004": {
+    "nome": "Visconde do Rio Branco",
+    "alunos": 182,
+    "cursos": 21
+  },
+  "3171303": {
+    "nome": "Viçosa",
+    "alunos": 609,
+    "cursos": 5
+  },
+  "3172103": {
+    "nome": "Volta Grande",
+    "alunos": 727,
+    "cursos": 4
+  },
+  "3170800": {
+    "nome": "Várzea da Palma",
+    "alunos": 63,
+    "cursos": 29
+  },
+  "3172202": {
+    "nome": "Wenceslau Braz",
+    "alunos": 516,
+    "cursos": 33
+  },
+  "3100609": {
+    "nome": "Água Boa",
+    "alunos": 378,
+    "cursos": 16
+  },
+  "3100708": {
+    "nome": "Água Comprida",
+    "alunos": 775,
+    "cursos": 36
+  },
+  "3100906": {
+    "nome": "Águas Formosas",
+    "alunos": 725,
+    "cursos": 5
+  },
+  "3101003": {
+    "nome": "Águas Vermelhas",
+    "alunos": 792,
+    "cursos": 17
+  }
+}
